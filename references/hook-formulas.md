@@ -46,3 +46,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 5. **Data Hook** — Lead with the sample size before the finding: "Across 200 tests, the pattern held." Bigger, real numbers carry more weight than vague ones.
 
 6. **Before/After Data** — Quantify the transformation exactly: "3.3% to 11% completion rate" beats "way better retention."
+
+## Emotional triggers
