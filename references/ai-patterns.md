@@ -44,3 +44,5 @@ wrote it. Each entry has the pattern, why it reads as generic, and a fix.
 6. **Fake conversational tone** — Reads as rehearsed casualness rather than actual conversation. *Fix:* Write it the way you'd actually text a friend the idea, then tighten.
 
 7. **Over-explanation** — Explains obvious things as if to a total novice. *Fix:* Cut the sentence that restates what the reader already inferred.
+
+## Detection-adjacent tells (use with caution)
