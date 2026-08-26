@@ -81,3 +81,8 @@ means the transformation needs another pass, not a ship.
 - **Input:** Assumes the reader already knows the product.
 - **Platform:** TikTok
 - **Expected transformation behavior:** Skill should reframe for a cold, unaware audience (contrarian/curiosity hook).
+
+### Test 16: Warm audience update
+- **Input:** Written as if for strangers.
+- **Platform:** Instagram Reels
+- **Expected transformation behavior:** Skill should shift to BAB framing since the real audience already follows the creator.
