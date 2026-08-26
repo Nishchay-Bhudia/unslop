@@ -76,3 +76,8 @@ means the transformation needs another pass, not a ship.
 - **Input:** Dense single paragraph, too much for one post.
 - **Platform:** X/Twitter
 - **Expected transformation behavior:** Skill should recommend and build a thread, not force it into one tweet.
+
+### Test 15: Cold audience pitch
+- **Input:** Assumes the reader already knows the product.
+- **Platform:** TikTok
+- **Expected transformation behavior:** Skill should reframe for a cold, unaware audience (contrarian/curiosity hook).
