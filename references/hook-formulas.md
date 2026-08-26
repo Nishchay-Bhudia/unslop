@@ -96,3 +96,17 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 5. **Timestamp Hook** — "This is happening right now" — only honest when it's actually current; stale "urgent" content reads as manipulative fast.
 
 6. **Investment Specificity** — "I put in $4,200 and got back $11,000" — exact numbers, not round ones, read as real.
+
+## Compound hooks
+
+Single-trigger hooks work. Stacking two triggers (e.g. desire + FOMO) works
+better. Three (authority + desire + anger) is the strongest — but only when
+every element in the stack is true. Example:
+
+> "I spent $50K on courses to learn what I'm about to give you for free —
+> and honestly, I'm still annoyed about it."
+
+That's a credential lead (authority) + practical value (desire) + a real,
+specific grievance (anger) in one sentence. Don't stack triggers you can't
+back up; a compound hook with one fabricated element collapses the whole
+thing when a viewer calls it out in the comments.
