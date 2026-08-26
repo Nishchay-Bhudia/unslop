@@ -64,3 +64,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 7. **Mistake Ownership** — "I got this completely wrong for two years" — vulnerability plus a coming correction.
 
 ## Story & narrative
+
+1. **Cold Open (In Media Res)** — Start mid-action with zero setup: "So the repo hits 40 stars and then it just stops." No preamble.
