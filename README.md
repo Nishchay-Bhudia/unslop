@@ -67,8 +67,8 @@ cp -r unslop/. .claude/skills/unslop/
 
 1. Paste a script, caption, or post into Claude — anything that sounds
    robotic, vague, or "written by ChatGPT."
-2. Say which platform it's for (TikTok, Reels, Shorts, X, or LinkedIn) — or
-   just ask, and Claude will ask you if it's ambiguous.
+2. Say which platform it's for (TikTok, Reels, Shorts, X, LinkedIn, or
+   Facebook) — or just ask, and Claude will ask you if it's ambiguous.
 3. Get back: a diagnosis of what was making it sound generic, the
    transformed post, exactly what changed and why, and a self-rated quality
    score.
