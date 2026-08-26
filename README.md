@@ -67,15 +67,14 @@ cp -r unslop/. .claude/skills/unslop/
 
 Paste a script, caption, or post that sounds robotic, vague, or written by
 ChatGPT. Say which platform it's for — TikTok, Reels, Shorts, X, LinkedIn, or
-Facebook — or leave it out. If the platform or tone is genuinely unclear,
-Claude asks first, as a couple of multiple-choice questions with real
-options and a "something else" you can type past, not an open-ended
+Facebook — or leave it out. If the platform, the tone, or a real detail the
+hook needs is genuinely missing, Claude asks first — as multiple-choice
+questions with real options and a way to type past them, not an open-ended
 paragraph to figure out on your own.
 
-You'll get back the rewritten post first, then a short checklist: what a
-post actually needs to work on that platform, and where in the rewrite each
-one shows up. No essay, no score — just the post and the reasoning that fits
-in a glance.
+Once that's settled, you get exactly two things back: the rewritten post,
+and a short list of what it does better, each line pointing at the specific
+phrase that earns it. No diagnosis essay, no score, no filler.
 
 ```
 > Unslop this for TikTok:
