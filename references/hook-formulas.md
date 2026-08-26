@@ -66,3 +66,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 ## Story & narrative
 
 1. **Cold Open (In Media Res)** — Start mid-action with zero setup: "So the repo hits 40 stars and then it just stops." No preamble.
+
+2. **Before/After Contrast** — "This is what my content looked like a year ago. This is what it looks like now." — needs two real, comparable artifacts.
