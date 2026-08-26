@@ -1,25 +1,58 @@
 # Platform Rules
 
 Retention math and formatting requirements differ enough by platform that the
-same transformed content can't just be reposted five times. This file backs
+same transformed content can't just be reposted six times. This file backs
 Stage 5 of `SKILL.md`.
+
+## Caption length cheat sheet
+
+Caption length isn't a style choice — on most platforms it's measured, and
+the "safe middle" length is often the worst-performing option. Don't default
+to a medium-length caption without checking this table:
+
+| Platform | Cutoff before truncation | Best-performing range | Range to avoid |
+|---|---|---|---|
+| TikTok | n/a (visual hook matters more) | 100-150 characters | very long, unfocused captions |
+| Instagram | ~125 characters before "…more" | <50 chars (ultra-short) or 126-800 chars (Hook-Value-CTA) | 60-120 chars — the "caption valley," measurably the worst engagement band |
+| Facebook | n/a | 40-80 characters | long unstructured paragraphs with no ask |
+| YouTube (description) | ~150 characters shown in search/preview | 200-500+ words total, keyword in first 150 characters | vague descriptions with no keyword up top |
+| LinkedIn | ~210 characters mobile / ~250 desktop before "…see more" | 800-1,200 characters | dense unbroken paragraphs the hook can't survive |
+
+The Instagram "caption valley" is worth internalizing on its own: captions in
+the 60-120 character range — the length most advice defaults to — measure at
+roughly a third the engagement of either a genuinely short caption or a full
+Hook-Value-CTA caption. Don't write a "medium" caption; pick short or long,
+deliberately.
 
 ## TikTok
 
 - **Retention gate:** ~65-70% of viewers must still be watching at 3 seconds
   or the algorithm stalls distribution. 70-85% retention at 3s roughly
-  doubles views versus baseline; 85%+ is candidate for a bigger push.
+  doubles views versus baseline; 85%+ is candidate for a bigger push. The
+  decisive window is even tighter than "3 seconds" suggests — the first
+  0.7 seconds sets whether a viewer commits to watching at all.
 - **Hook placement:** must land in the first 3 seconds — no slow fade-in, no
   logo intro, no "hey guys."
 - **Format:** spoken hook (first 10-14 words) + text overlay (5-8 words, top
   third, high contrast) reinforcing the same idea — dual signal measurably
   improves 3-second hold.
+- **Caption text:** 100-150 characters is the sweet spot (measured ~12% higher
+  engagement than no caption at all) — but the caption supports the hook, it
+  doesn't replace it. Put your real keywords in the caption, the voiceover,
+  and the on-screen text all three ("triple keyword placement") — that
+  redundancy is what the algorithm and search both pick up on.
 - **Audio:** most viral TikToks have music or sound cued within the first 3
   seconds — silence at the open reads as low-effort.
 - **Hashtags:** 3-5, one broad/viral, the rest niche and specific to the
-  content.
+  content. More than 5 measurably hurts reach — this isn't 2019 hashtag-stuff
+  advice.
+- **Emoji:** 3-5 total, used as punctuation or line-starters, not scattered
+  mid-sentence.
 - **Content tone:** happiness and humor outperform neutral tone; mild
   negative/contrarian content slightly outperforms neutral, flat content.
+  Raw/unfiltered delivery outperforms polished delivery by roughly 3:1 —
+  TikTok audiences detect "trying too hard to look effortless" almost
+  instantly.
 
 ## Instagram Reels
 
