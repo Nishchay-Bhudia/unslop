@@ -44,3 +44,29 @@ The user provides:
 If platform is not given and can't be reasonably inferred, ask before
 transforming — pacing and caption rules differ enough that guessing wrong
 wastes the user's time.
+
+## STAGE 1 — DIAGNOSE
+
+Scan the input for AI writing patterns before touching a word of it. Check:
+
+- **Sentence rhythm** — are most sentences 12-18 words with little variance?
+  Uniform rhythm is the single strongest AI tell.
+- **Transitions** — count "in summary", "as a result", "overall", "in
+  conclusion", "furthermore". More than ~2 per 300 words is a flag.
+- **Hedging** — count "may", "might", "could", "suggests", "indicates",
+  "appears to". Hedging reads as a system covering itself, not a person with
+  an opinion.
+- **Vocabulary** — flag "unlock", "delve into", "testament to", "in the realm
+  of", "game-changing", "revolutionize", "transformative", "powerful" used
+  without a concrete referent.
+- **Structure** — is every paragraph definition → explanation → summary?
+  Real writing doesn't repeat its own shape.
+- **Specificity** — vague ("better results", "many people") vs. concrete
+  ("40% faster", "4 out of 5 testers")?
+- **Sourcing** — "studies show" / "experts agree" with no author, date, or
+  number attached is a tell, not evidence.
+- **Voice** — read it aloud. Can you hear one specific person, or a
+  well-behaved system?
+
+Output a short bullet list of which patterns are present before moving on —
+this becomes the basis for Stage 4.
