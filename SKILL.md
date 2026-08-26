@@ -173,7 +173,11 @@ Full platform pacing rules: `references/platform-rules.md`.
 
 ## STAGE 4 — HUMANIZE
 
-Apply fixes directly against what Stage 1 flagged:
+In TRANSFORM mode, apply fixes directly against what Stage 1 flagged. In
+GENERATE mode there's no prior draft to fix — write the first draft already
+obeying these rules, then read it back once and apply the same checklist,
+since first drafts drift toward generic phrasing even when you're writing
+them fresh:
 
 - **Vary sentence length.** Mix 5-word sentences with 25-word ones. Uniform
   rhythm is the tell; irregular rhythm is what a person actually writes.
