@@ -26,3 +26,8 @@ means the transformation needs another pass, not a ship.
 - **Input:** Flat opinion statement, no stakes.
 - **Platform:** X/Twitter
 - **Expected transformation behavior:** Thread structure, first-10-words hook, one tweet per beat.
+
+### Test 5: Behind-the-scenes
+- **Input:** Raw description with no visual cue.
+- **Platform:** Instagram Reels
+- **Expected transformation behavior:** Conversational caption, visual-pattern-interrupt hook, save-focused CTA.
