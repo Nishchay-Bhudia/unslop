@@ -80,3 +80,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 2. **Tool Reveal** — "I built a tool that does X in one step" — lead with what it does, not how proud you are of it.
 
 3. **Framework Reveal** — "This is the framework I use for every launch" — name the framework so it's memorable and shareable.
+
+4. **Instant Payoff** — Lead with the single most surprising fact instead of building up to it — good for cold, low-attention audiences.
