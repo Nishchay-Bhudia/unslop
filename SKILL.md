@@ -77,6 +77,21 @@ audience the platform and content already imply.
 If the content is usable as-is and nothing above applies, don't ask — run
 the pipeline.
 
+### How to ask
+
+Ask as structured multiple-choice, not an open paragraph the user has to
+parse and reply to in prose. If the environment provides a multiple-choice
+question tool (for example, Claude Code's AskUserQuestion), use it: 2-4
+concrete options per question, each phrased as a real answer rather than a
+category label, with the built-in "Other" left in place so the user can type
+past the options or just talk through it instead. In an environment without
+that tool, replicate the same shape in plain text — a short numbered list of
+concrete options per question, plus an explicit "or tell me something else."
+
+Never turn this into an interview. One round, 2-3 questions at most, then
+proceed with whatever answer comes back — including "other" or a
+conversational reply that doesn't fit the options at all.
+
 ## MODE DETECTION
 
 Decide which mode you're in before Stage 1:
