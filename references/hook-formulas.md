@@ -56,3 +56,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 3. **Empathy / Belonging** — "If you've ever stared at a blank caption box for twenty minutes..." — names a specific, relatable moment.
 
 4. **Desire / Aspiration** — "This is what actually sustainable growth looks like" — pairs best with a visual, not just text.
+
+5. **Relatable Frustration** — "That exact moment you realize you've been doing this backwards" — self-recognition triggers a comment, not just a watch.
