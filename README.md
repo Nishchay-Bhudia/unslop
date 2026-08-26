@@ -170,3 +170,28 @@ Yes, MIT-licensed, no paywalls, no usage limits, forever.
 
 **How do I add a new hook formula or platform rule?**
 See [`CONTRIBUTING.md`](./CONTRIBUTING.md) — PRs adding real, non-fabricated examples are welcome.
+
+## Roadmap
+
+- [ ] A/B test brief generator (compare two hook variants with a metric to watch)
+- [ ] Brand-voice customization layer
+- [ ] Discord and Bluesky platform rules
+- [ ] Multi-language support
+
+## Contributing
+
+Contributions are welcome — new hook formulas, updated platform rules as
+algorithms change, or additional test cases. See
+[`CONTRIBUTING.md`](./CONTRIBUTING.md).
+
+## License
+
+[MIT](./LICENSE) — free forever, no paywalls, community-owned.
+
+---
+
+<div align="center">
+
+If this helped you ship something less generic, consider starring the repo. ⭐
+
+</div>
