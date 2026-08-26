@@ -56,3 +56,8 @@ means the transformation needs another pass, not a ship.
 - **Input:** Extremely generic, could be about anything.
 - **Platform:** All platforms
 - **Expected transformation behavior:** Full pipeline run per platform; checks the skill doesn't just reformat, it re-hooks.
+
+### Test 11: Already-human draft
+- **Input:** A genuinely well-written, specific post.
+- **Platform:** TikTok
+- **Expected transformation behavior:** Skill should recognize this and make minimal or no changes — tests against over-editing.
