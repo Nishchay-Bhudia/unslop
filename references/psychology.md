@@ -72,3 +72,30 @@ that predict whether content gets shared:
 Not every post needs all six. Picking one or two deliberately (instead of
 none) is usually the difference between content that gets watched and
 content that gets shared.
+
+## Applying this: the hook decision tree
+
+For any piece of content, work through five questions in order:
+
+1. **Audience** — do they already know the problem exists? What do they want,
+   and what are they afraid of?
+2. **Desired emotional state** — curiosity, anger, belonging, or aspiration?
+   Pick the one lever that fits the real content, not the most dramatic
+   option available.
+3. **Information gap** — what do they already know, what's specifically
+   missing, and can it be resolved within the length of this piece?
+4. **Stakes** — what happens if they ignore this, and what do they gain if
+   they don't?
+5. **Hook selection** — map the above onto 2-3 candidates from
+   `hook-formulas.md` and pick the one that doesn't require inventing
+   anything to work.
+
+Worked example:
+
+> Content: "How a side project got to 40 GitHub stars in a week."
+> Audience: developers with an unshipped side project (aware of the problem).
+> Emotion: aspiration + mild frustration at their own inaction.
+> Gap: what specifically got it seen, not just "how I grew it."
+> Stakes: every week unshipped is a week a competitor could ship first.
+> Hook candidates: a mistake-callout ("I sat on this for four months before
+> posting it"), or a specific-number hook ("40 stars, one README rewrite").
