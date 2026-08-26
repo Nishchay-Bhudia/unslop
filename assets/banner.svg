@@ -7,7 +7,7 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="280" rx="24" fill="url(#bg)"/>
-  <text x="60" y="120" font-family="Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff">Un-AI-ify</text>
+  <text x="60" y="120" font-family="Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff">Unslop</text>
   <text x="60" y="168" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#f0e6e0">A Claude Skill that turns AI-sounding scripts into platform-native, human posts</text>
   <text x="60" y="230" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#d0c0d0">TikTok &#8226; Reels &#8226; Shorts &#8226; X &#8226; LinkedIn</text>
 </svg>
