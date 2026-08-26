@@ -143,3 +143,13 @@ Full detail and rationale: [`references/platform-rules.md`](./references/platfor
 
 Four more full transformations (Reels, Shorts, X, LinkedIn) in
 [`examples/`](./examples).
+
+## Documentation
+
+- [`SKILL.md`](./SKILL.md) — the full, executable skill definition.
+- [`references/hook-formulas.md`](./references/hook-formulas.md) — all 38 hook formulas.
+- [`references/platform-rules.md`](./references/platform-rules.md) — platform pacing and caption rules.
+- [`references/ai-patterns.md`](./references/ai-patterns.md) — the 25-point AI-tell checklist.
+- [`references/psychology.md`](./references/psychology.md) — the research this skill is built on.
+- [`examples/`](./examples) — five full before/after transformations.
+- [`test-suite/test-cases.md`](./test-suite/test-cases.md) — 20 regression test cases.
