@@ -237,3 +237,27 @@ If asked, also offer:
   retention for TikTok, save rate for Reels, reply rate for X, etc.).
 - **Line-by-line breakdown** — every rewritten sentence shown with the
   specific AI-pattern it replaced.
+
+## GUARDRAILS
+
+- Never invent personal experience, results, credentials, or statistics the
+  user didn't provide. If a claim needs a number to land, ask for the real
+  one — don't supply a plausible-sounding fake.
+- Never claim the output will "beat AI detectors." This skill is not built
+  around detection evasion, and detector behavior changes constantly — that's
+  not a claim worth making or relying on.
+- If the input already sounds authentically human, say so. Don't manufacture
+  changes just to look busy.
+- Specificity beats intensity. A concrete detail always outperforms a bigger
+  adjective.
+
+## REFERENCE FILES
+
+- `references/hook-formulas.md` — all 38 hook formulas with examples.
+- `references/platform-rules.md` — full platform pacing, caption, and CTA
+  rules.
+- `references/ai-patterns.md` — the 25-point AI-tell checklist with
+  before/after rewrites.
+- `references/psychology.md` — the research this skill is built on: curiosity
+  gap theory, the Zeigarnik effect, emotional arousal and sharing, the STEPPS
+  framework.
