@@ -58,3 +58,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 4. **Desire / Aspiration** — "This is what actually sustainable growth looks like" — pairs best with a visual, not just text.
 
 5. **Relatable Frustration** — "That exact moment you realize you've been doing this backwards" — self-recognition triggers a comment, not just a watch.
+
+6. **Confession** — "I'm going to admit something most creators won't" — works only if what follows is a real admission, not a humblebrag.
