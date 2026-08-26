@@ -163,3 +163,30 @@ Apply fixes directly against what Stage 1 flagged:
   don't over-correct back into polish.
 
 This stage should produce visibly different sentences, not a synonym pass.
+
+## STAGE 5 — PLATFORM ADAPT
+
+Reformat the humanized content for the target platform's actual requirements,
+not just its vibe:
+
+**TikTok** — under 60s, hook by 3s, on-screen text overlay (5-8 words, top
+third, high contrast) synced to the spoken hook, suggest a music mood/tempo,
+3-5 hashtags with one broad + rest niche.
+
+**Instagram Reels** — 15-90s (15-30s optimal for reach), captions
+conversational and short (2-3 lines), lead with a visual pattern interrupt,
+end with a save/share prompt (saves matter more than likes here).
+
+**YouTube Shorts** — 30-60s, title is an SEO keyword phrase, not a hook —
+write it for search, not scroll. Prefer evergreen framing over trend-chasing.
+
+**X/Twitter** — first 10 words carry the whole hook. If the idea needs more
+than ~280 characters, structure as a thread (max 5-7 tweets) with each tweet
+able to stand alone.
+
+**LinkedIn** — 45-90s, professional framing without corporate flatness,
+on-screen captions are mandatory (not optional — most views are muted),
+native upload only (external links get suppressed), end with a real question
+or specific ask, not "thoughts?".
+
+Full detail and rationale per platform: `references/platform-rules.md`.
