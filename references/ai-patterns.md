@@ -18,3 +18,5 @@ wrote it. Each entry has the pattern, why it reads as generic, and a fix.
 5. **Symmetrical paragraph structure** — Every paragraph follows topic sentence → explanation → mini-summary. *Fix:* Vary paragraph shape; let some be one line.
 
 ## Vocabulary tells
+
+1. **Repetitive AI vocabulary** — "delve into", "testament to", "in the realm of", "unlock", "game-changing", "revolutionize". *Fix:* Replace with the plain verb: "look at", "shows", "in", "get", "useful", "change".
