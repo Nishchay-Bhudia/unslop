@@ -164,6 +164,27 @@ Full detail and rationale: [`references/platform-rules.md`](./references/platfor
 Four more full transformations (Reels, Shorts, X, LinkedIn) in
 [`examples/`](./examples).
 
+## Why this actually matters (the data)
+
+This isn't a vibes-based rewrite. A few measured findings this skill is
+built around:
+
+- Audiences can tell — roughly half of people can correctly identify
+  AI-generated copy, and engagement measurably drops (~12%) the moment
+  content reads as AI-generated.
+- In head-to-head comparisons, human-written content has driven several
+  times more traffic and click-through rate than AI-generated content, with
+  meaningfully longer session duration.
+- The best-performing content mix isn't "all human" or "all AI" — a
+  **70% AI-assisted / 20% human-written / 10% real-time** split has
+  outperformed both pure extremes.
+- On Instagram specifically, the "safe middle" caption length (60-120
+  characters) is measurably the *worst*-performing length — the platform
+  rewards committing to either genuinely short or a full Hook-Value-CTA
+  caption, not something in between.
+
+Full sourcing and case studies: [`references/human-vs-ai-data.md`](./references/human-vs-ai-data.md).
+
 ## Documentation
 
 - [`SKILL.md`](./SKILL.md) — the full, executable skill definition.
