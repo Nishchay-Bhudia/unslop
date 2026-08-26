@@ -82,3 +82,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 3. **Framework Reveal** — "This is the framework I use for every launch" — name the framework so it's memorable and shareable.
 
 4. **Instant Payoff** — Lead with the single most surprising fact instead of building up to it — good for cold, low-attention audiences.
+
+## Platform-native
