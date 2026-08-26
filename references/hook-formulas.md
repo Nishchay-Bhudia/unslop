@@ -50,3 +50,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 ## Emotional triggers
 
 1. **Fear / FOMO** — "Everyone except you is already doing this" — use sparingly; overused it reads as manipulative.
+
+2. **Anger / Outrage** — "The industry benefits from you not knowing this" — needs a real grievance behind it, not manufactured outrage.
