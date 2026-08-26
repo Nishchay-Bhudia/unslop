@@ -55,3 +55,20 @@ Stage 5 of `SKILL.md`.
 - **Structure:** a thread of 5-7 tweets, each able to stand alone,
   consistently outperforms a single long post for retention through the
   whole idea.
+
+## LinkedIn
+
+- **Length:** 45-90 seconds, 4:5 or 1:1 aspect ratio.
+- **Captions are mandatory, not optional** — roughly 85% of viewers watch
+  muted. If there's no on-screen text, most of the audience gets nothing.
+- **Upload:** native video only — posts with external links get
+  algorithmically suppressed in favor of native content.
+- **Tone:** a specific professional insight or founder story outperforms
+  generic "LinkedIn voice" — avoid inspirational platitudes and corporate
+  buzzwords entirely.
+- **Format performance:** carousels currently get the highest engagement of
+  any LinkedIn format, with native video next; both beat plain text posts by
+  a wide margin.
+- **CTA:** end with a specific, answerable question — "thoughts?" gets
+  ignored; "what's the last tool you switched off because of this?" gets
+  replies.
