@@ -79,6 +79,20 @@ cp -r unslop/. .claude/skills/unslop/
 > content creation. Many creators struggle with this..."
 ```
 
+**Nothing written yet?** Unslop also writes from scratch — give it an idea,
+a few bullet points, or a rough brief instead of a draft, and it runs the
+same hook-hold-payoff psychology to build the post from zero rather than
+just editing one:
+
+```
+> Write me a LinkedIn post from scratch: I shipped a Claude Skill last
+> weekend, went from 0 to 40 stars in 3 days, the thing that actually worked
+> was posting the failed first version, not the polished one.
+```
+
+It will ask for any real, specific detail it needs (a number, a name, a
+moment) rather than inventing one — see [`GUARDRAILS`](./SKILL.md#guardrails).
+
 See [`examples/`](./examples) for five full before/after transformations,
 one per platform.
 
