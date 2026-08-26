@@ -20,3 +20,15 @@ Stage 5 of `SKILL.md`.
   content.
 - **Content tone:** happiness and humor outperform neutral tone; mild
   negative/contrarian content slightly outperforms neutral, flat content.
+
+## Instagram Reels
+
+- **Length:** 15-90 seconds; 15-30 seconds performs best for reach.
+- **Primary metric:** saves and shares outrank likes — optimize the ending
+  for "save this" or "send to a friend," not just watch time.
+- **Captions:** short, conversational, 2-3 lines. On-screen text carries the
+  actual message more than the caption does.
+- **Tone:** behind-the-scenes, relatable, personality-forward beats polished
+  corporate framing.
+- **CTA:** ask for a save or share explicitly — it performs better than a
+  generic "let me know what you think."
