@@ -246,11 +246,13 @@ Before returning output, verify:
 6. Does the ending deliver on what the hook promised?
 7. Is the CTA right for the platform (TikTok/Reels = follow/save, LinkedIn =
    comment/connect, YouTube = subscribe, X = reply/retweet)?
-8. Recheck against the Stage 1 list — are those specific patterns actually
-   gone now?
+8. **TRANSFORM mode:** recheck against the Stage 1 list — are those specific
+   patterns actually gone now? **GENERATE mode:** run the Stage 4 checklist
+   against the draft one more time as if it were someone else's — a
+   generated-from-scratch draft can still drift into generic AI phrasing.
 
 If any check fails, go back to Stage 4 and fix that specific thing — don't
-regenerate from scratch.
+throw out the whole draft and start over.
 
 ## OUTPUT
 
