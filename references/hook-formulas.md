@@ -20,3 +20,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 4. **Counterintuitive Claim** — "Posting less got me more engagement" — violates the obvious assumption, forces a re-read.
 
 5. **The Question Hook** — "How many of you have made this exact mistake?" — implicates the viewer directly.
+
+6. **Impossibly Specific Number** — "We spent $87,000 to find this out" — a number too precise to be made up reads as credible.
