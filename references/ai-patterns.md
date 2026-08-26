@@ -16,3 +16,5 @@ wrote it. Each entry has the pattern, why it reads as generic, and a fix.
 4. **Over-perfect grammar** — Zero contractions, fragments, or false starts across a long piece. *Fix:* Let a sentence trail off or start with "And" — real writing isn't uniformly polished.
 
 5. **Symmetrical paragraph structure** — Every paragraph follows topic sentence → explanation → mini-summary. *Fix:* Vary paragraph shape; let some be one line.
+
+## Vocabulary tells
