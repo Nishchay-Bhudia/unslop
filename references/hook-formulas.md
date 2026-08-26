@@ -88,3 +88,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 1. **Scroll-Stop Visual** — A pattern-interrupt cut or on-screen text that breaks visual rhythm in the first frame — words alone won't stop a thumb.
 
 2. **Reply / Quote Hook** — "Replying to everyone who asked how I actually did this" — frames the post as answering real demand.
+
+3. **Thread / Series Hook** — "Long thread on this, worth the read" — sets expectation up front so people don't bounce mid-thread.
