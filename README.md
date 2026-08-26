@@ -101,6 +101,9 @@ one per platform.
 - 🎯 **6-stage transformation pipeline** — diagnose, extract, reconstruct,
   humanize, platform-adapt, quality-control (full detail in
   [`SKILL.md`](./SKILL.md)).
+- ✍️ **Rewrite or write from scratch** — paste a rough draft to fix, or just
+  an idea/brief to build from zero; both run through the same hook and
+  platform logic (see [`MODE DETECTION`](./SKILL.md#mode-detection)).
 - 🪝 **38 hook formulas**, organized by audience awareness and psychological
   lever, each with a real example — [`references/hook-formulas.md`](./references/hook-formulas.md).
 - 🧠 **Psychology-backed, not detection-based** — curiosity gap theory, the
