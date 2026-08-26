@@ -91,3 +91,8 @@ means the transformation needs another pass, not a ship.
 - **Input:** All-caps outrage, no narrative.
 - **Platform:** TikTok
 - **Expected transformation behavior:** Skill should embed the anger in a real story arc, not just amplify volume.
+
+### Test 18: Text-heavy LinkedIn post
+- **Input:** No caption/visual plan at all.
+- **Platform:** LinkedIn
+- **Expected transformation behavior:** Skill must add the mandatory on-screen caption plan, not just rewrite prose.
