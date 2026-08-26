@@ -167,3 +167,6 @@ Yes — ask for a multi-platform pass (see Advanced Options in [`SKILL.md`](./SK
 
 **Is this free?**
 Yes, MIT-licensed, no paywalls, no usage limits, forever.
+
+**How do I add a new hook formula or platform rule?**
+See [`CONTRIBUTING.md`](./CONTRIBUTING.md) — PRs adding real, non-fabricated examples are welcome.
