@@ -1,6 +1,6 @@
 # Security Policy
 
-Un-AI-ify is a Markdown-only Claude Skill with no executable code, network
+Unslop is a Markdown-only Claude Skill with no executable code, network
 calls, or credential handling. There is no attack surface beyond the prompt
 content itself.
 
