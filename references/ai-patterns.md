@@ -22,3 +22,5 @@ wrote it. Each entry has the pattern, why it reads as generic, and a fix.
 1. **Repetitive AI vocabulary** — "delve into", "testament to", "in the realm of", "unlock", "game-changing", "revolutionize". *Fix:* Replace with the plain verb: "look at", "shows", "in", "get", "useful", "change".
 
 2. **Generic adjectives** — "better", "easier", "powerful" with no referent. *Fix:* Attach a number or a mechanism: "40% faster", "one-click setup".
+
+3. **Excessive em dashes** — Em dashes in more than ~30% of sentences. *Fix:* Swap half of them for periods or commas.
