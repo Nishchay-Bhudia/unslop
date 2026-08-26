@@ -26,3 +26,5 @@ wrote it. Each entry has the pattern, why it reads as generic, and a fix.
 3. **Excessive em dashes** — Em dashes in more than ~30% of sentences. *Fix:* Swap half of them for periods or commas.
 
 4. **Systematic punctuation** — Perfectly consistent Oxford commas, zero regional variance, minimal contractions. *Fix:* Let punctuation vary slightly the way a real person's does.
+
+5. **Proper noun avoidance / generic names** — 60-70% of invented example names default to "Emily", "Sarah", "John". *Fix:* Use a specific, less-common name, or better, a real one with permission.
