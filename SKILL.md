@@ -341,29 +341,22 @@ throw out the whole draft and start over.
 
 ## OUTPUT
 
-Lead with the rewrite. Everything after it is bullets, not prose — this is a
-deliverable, not a writeup.
+By this point any question that needed asking has already been asked and
+answered (see When To Ask First) — the output itself carries no unresolved
+gaps, placeholders, or caveats. Give exactly two things:
 
-1. If a real detail the hook needed was missing from the input (see
-   Guardrails), say so first, in one line: name exactly what's missing, then
-   continue with the best version buildable without it. Skip this line
-   entirely if nothing was missing.
-2. **The rewrite** — the full platform-formatted post, in a quote block, on
+1. **The rewrite** — the full platform-formatted post, in a quote block, on
    its own, nothing before or after it inside the block.
-3. **What works on [platform]** — 4-5 one-line bullets: the actual bar for a
-   successful post here (hook window, length, the one platform-specific
-   must-have from Stage 5/`references/platform-rules.md`). Pull these from
-   the platform rules, don't write generic advice.
-4. **What this one does** — the same number of bullets, same order, one line
-   each, each pointing at the specific line or phrase in the rewrite that
-   meets it. "Hook lands in the first sentence: 'X.'" not "the hook is
-   strong."
+2. **What this does better** — 3-5 one-line bullets, each naming a specific
+   mechanism and pointing at the exact line or phrase in the rewrite that
+   delivers it. "Hook lands in the first sentence: 'X.'" not "the hook is
+   strong." Only include a bullet if it's concretely true of this rewrite —
+   don't pad to hit a count.
 
-That's the whole output. No separate diagnosis essay, no restated core
-message, no before/after table, no numeric self-rating — the "what this one
-does" bullets already show the mechanism. If the user wants the diagnosis or
-a line-by-line breakdown, that's the Advanced Options list below, on
-request, not the default.
+Nothing else. No diagnosis, no baseline platform-requirements list, no
+before/after table, no numeric score, no restated core message. If the user
+wants the reasoning, the diagnosis, or a line-by-line breakdown, that's the
+Advanced Options list below — on request, never the default.
 
 ## ADVANCED OPTIONS
 
