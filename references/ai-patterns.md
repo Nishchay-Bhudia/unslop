@@ -32,3 +32,5 @@ wrote it. Each entry has the pattern, why it reads as generic, and a fix.
 ## Content-level tells
 
 1. **Lack of specific detail** — Broad abstractions instead of a timestamp, a name, a sensory detail. *Fix:* Add the exact number, date, or name — even a small one.
+
+2. **Vague sourcing** — "Studies show", "experts argue" with no author, journal, or date. *Fix:* Cite it properly, or replace with "based on what I've tested" if that's true.
