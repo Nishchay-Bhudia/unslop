@@ -1,0 +1,12 @@
+# Hook Formulas (38)
+
+Every hook here is organized by the psychological lever it pulls, with a
+concrete example — not a template with `[blank]` in it. Pick based on
+audience awareness (does the viewer already know the problem exists?) and
+platform (TikTok needs the hook in the first 3 seconds; LinkedIn can take a
+full sentence). See `SKILL.md` Stage 3a for the selection logic.
+
+Never fill these with numbers or claims the user didn't actually provide —
+a hook with a fabricated statistic is worse than a slower, honest one.
+
+## Curiosity-driven
