@@ -110,3 +110,46 @@ That's a credential lead (authority) + practical value (desire) + a real,
 specific grievance (anger) in one sentence. Don't stack triggers you can't
 back up; a compound hook with one fabricated element collapses the whole
 thing when a viewer calls it out in the comments.
+
+## TikTok-specific retention patterns
+
+Beyond the individual formulas above, large-scale TikTok analysis surfaces
+three structural patterns worth naming on their own — they're about pacing
+across the whole video, not just the opening line:
+
+- **The "Wait, What?" pattern** — deliberate cognitive dissonance in the
+  first ~0.7 seconds: the video appears to be showing one thing, then reveals
+  it's actually something else. The brief confusion is what buys the extra
+  half-second of attention needed to reach the real hook.
+- **Bait-and-switch format changes** — switching from text, to talking head,
+  to on-screen graphic within one video gives the algorithm multiple distinct
+  "this held attention" signals instead of one continuous one. Use format
+  changes deliberately, not randomly — each switch should also mark a real
+  beat in the hook-hold-payoff structure.
+- **Serial cliffhanger series** — posting daily or near-daily installments
+  that end on a genuinely unresolved beat drives repeat profile visits, which
+  is a stronger algorithmic signal than any single video's performance. Only
+  works if each installment's cliffhanger is honestly resolved in the next
+  one — an unresolved series reads as bait within 2-3 episodes.
+
+## Formula performance (for calibrating expectations, not for promising results)
+
+Independent testing across TikTok captions found meaningfully different lift
+from different hook types. These numbers are from one set of tests, not a
+guarantee — but the *relative* ordering is a useful prior when picking
+between two formulas that otherwise seem equally good for the content:
+
+| Formula type | Measured lift | Metric |
+|---|---|---|
+| Curiosity gap / cliffhanger | ~240% | click-through to bio link |
+| Personal story / vulnerability | ~210% views, ~78% saves/DMs | views, saves |
+| Contrarian take with evidence | ~185% | overall engagement |
+| Hook-Question-CTA | ~112% | comments |
+| Educational tip | ~95% | views |
+| Problem-solution-benefit | ~78% | click-through rate |
+| Behind-the-scenes/process | ~78% | engagement, vs. polished posts |
+
+The pattern across all seven: specificity and a real stake (a real failure,
+a real number, a real disagreement) outperform polish, in every single
+formula category. That's the mechanism this skill optimizes for — not the
+specific percentage.
