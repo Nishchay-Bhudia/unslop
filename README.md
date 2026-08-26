@@ -153,3 +153,5 @@ Four more full transformations (Reels, Shorts, X, LinkedIn) in
 - [`references/psychology.md`](./references/psychology.md) — the research this skill is built on.
 - [`examples/`](./examples) — five full before/after transformations.
 - [`test-suite/test-cases.md`](./test-suite/test-cases.md) — 20 regression test cases.
+
+## FAQ
