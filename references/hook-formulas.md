@@ -38,3 +38,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 1. **Credential Lead** — "As someone who's shipped 40 Claude Skills..." — only use a credential the user actually has.
 
 2. **Case Study Lead** — "I tested this against 500 real creators" — leads with the method, not the adjective.
+
+3. **Insider Reveal** — "Working inside the algorithm team taught me this" — implies access; must be true, not aspirational.
