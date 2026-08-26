@@ -415,6 +415,14 @@ If asked, also offer:
   changes just to look busy.
 - Specificity beats intensity. A concrete detail always outperforms a bigger
   adjective.
+- Never drop a link, @mention, product name, number, date, or any other
+  concrete detail that was in the input. Tightening prose means cutting
+  filler, not real content — if something in the original carries actual
+  information, it survives the rewrite. Relocate it if the platform requires
+  (see Stage 5 — a link may need to move to the first comment), but never
+  silently delete it. If keeping it would break the platform's pacing (e.g.
+  a raw URL eating the TikTok caption's character budget), say so and move
+  it, don't just cut it and hope it doesn't matter.
 
 ## REFERENCE FILES
 
