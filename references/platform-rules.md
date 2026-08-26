@@ -117,17 +117,35 @@ deliberately.
 
 ## LinkedIn
 
-- **Length:** 45-90 seconds, 4:5 or 1:1 aspect ratio.
+- **Length (video):** 45-90 seconds, 4:5 or 1:1 aspect ratio.
+- **Length (text post):** 800-1,200 characters total, but the hook has to
+  survive a hard truncation point — roughly 210 characters on mobile, ~250 on
+  desktop — before "…see more" cuts it off. Front-load the actual claim; if
+  it's still setup at character 200, it dies there.
 - **Captions are mandatory, not optional** — roughly 85% of viewers watch
   muted. If there's no on-screen text, most of the audience gets nothing.
 - **Upload:** native video only — posts with external links get
-  algorithmically suppressed in favor of native content.
+  algorithmically suppressed in favor of native content. If a link is
+  necessary, put it in the first comment, not the post body.
+- **Formatting:** short lines, roughly 8-12 words each, one idea per line —
+  this is a skim platform, not a read platform. Line breaks matter more here
+  than on any other platform in this list.
 - **Tone:** a specific professional insight or founder story outperforms
   generic "LinkedIn voice" — avoid inspirational platitudes and corporate
-  buzzwords entirely.
+  buzzwords entirely. Vulnerability works here, but only when it's grounded
+  in a specific, checkable detail — "for six months I struggled with X
+  because Y" outperforms unspecific "it's been a journey."
 - **Format performance:** carousels currently get the highest engagement of
   any LinkedIn format, with native video next; both beat plain text posts by
   a wide margin.
+- **What the algorithm actually weights:** saves count roughly 3x a like;
+  a comment of 15+ words is weighted well above a one-word reaction; content
+  that's meaningfully edited before reposting outperforms a verbatim repost
+  by a wide margin. The first 60-90 minutes after posting determine most of
+  a post's total reach — replying to early comments fast matters more here
+  than almost anywhere else.
 - **CTA:** end with a specific, answerable question — "thoughts?" gets
   ignored; "what's the last tool you switched off because of this?" gets
-  replies.
+  replies. Never use an engagement-bait trick like "comment 'GUIDE' for the
+  link" — it's transparent and it's explicitly penalized by some detection
+  the platform runs.
