@@ -78,3 +78,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 1. **How-To Promise** — "Here's the exact 3-step process" — only promise a count you actually deliver.
 
 2. **Tool Reveal** — "I built a tool that does X in one step" — lead with what it does, not how proud you are of it.
+
+3. **Framework Reveal** — "This is the framework I use for every launch" — name the framework so it's memorable and shareable.
