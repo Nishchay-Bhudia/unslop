@@ -12,3 +12,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 ## Curiosity-driven
 
 1. **The Cliffhanger** — "What if I told you the thing you're optimizing for is the wrong metric?" — opens a gap without naming the answer yet.
+
+2. **The Open Loop** — "The thing nobody tells you about going full-time..." — promises insider information, doesn't give it away in the hook.
