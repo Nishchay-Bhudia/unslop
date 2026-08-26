@@ -110,8 +110,10 @@ See [`examples/`](./examples) for five full before/after transformations
   Zeigarnik effect, STEPPS — [`references/psychology.md`](./references/psychology.md).
 - 🔍 **23-point AI-tell checklist** with before/after fixes for each pattern —
   [`references/ai-patterns.md`](./references/ai-patterns.md).
-- 📱 **Platform-native pacing** for TikTok, Reels, Shorts, X, and LinkedIn —
-  [`references/platform-rules.md`](./references/platform-rules.md).
+- 📱 **Platform-native pacing** for TikTok, Reels, Shorts, X, LinkedIn, and
+  Facebook, including exact caption-length cutoffs (Instagram's ~125-char
+  truncation, LinkedIn's ~210-char mobile cutoff, Facebook's FLAME framework)
+  — [`references/platform-rules.md`](./references/platform-rules.md).
 - 🛡️ **Guardrails against fabrication** — never invents stats, credentials,
   or personal experience to sound more convincing.
 - 🧪 **20-case test suite** for regression-checking any change to the skill —
