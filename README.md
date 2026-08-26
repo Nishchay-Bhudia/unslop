@@ -158,3 +158,6 @@ Four more full transformations (Reels, Shorts, X, LinkedIn) in
 
 **Will this help me beat AI detectors?**
 No, and it's not trying to. Detector behavior changes constantly and has high false-positive rates on non-native English and technical writing. This skill optimizes for a human reader's attention, not a classifier.
+
+**Does it make up stats or personal stories to sound convincing?**
+No. The [Guardrails section of SKILL.md](./SKILL.md#guardrails) explicitly forbids fabricating claims, credentials, or experiences. If your draft needs a number to land, the skill asks you for the real one.
