@@ -26,3 +26,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 7. **The Secret Reveal** — "Nobody's talking about what actually moves the needle here" — implies exclusive access.
 
 8. **The Countdown Tease** — "In five seconds I'll show you the actual number" — creates a short, bridgeable wait.
+
+9. **The Mistake Callout** — "I did this wrong for six months before I noticed" — pairs vulnerability with a coming payoff.
