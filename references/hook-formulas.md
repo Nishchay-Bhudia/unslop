@@ -24,3 +24,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 6. **Impossibly Specific Number** — "We spent $87,000 to find this out" — a number too precise to be made up reads as credible.
 
 7. **The Secret Reveal** — "Nobody's talking about what actually moves the needle here" — implies exclusive access.
+
+8. **The Countdown Tease** — "In five seconds I'll show you the actual number" — creates a short, bridgeable wait.
