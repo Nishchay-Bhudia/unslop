@@ -224,3 +224,16 @@ Return, in this order:
 6. **Platform notes** — length, caption/hashtag requirements, CTA used.
 7. **Self-rated quality** — 1-10 on how fully it avoids Stage 1's AI tells,
    with the reasoning, not just a number.
+
+## ADVANCED OPTIONS
+
+If asked, also offer:
+
+- **Multiple hook variants** — 3 versions using different formulas, ranked
+  with reasoning for which fits this audience best.
+- **Multi-platform pass** — the same core message adapted for 2+ platforms in
+  one response, each following its own pacing rules.
+- **A/B test brief** — two hook variants plus what metric to watch (3s
+  retention for TikTok, save rate for Reels, reply rate for X, etc.).
+- **Line-by-line breakdown** — every rewritten sentence shown with the
+  specific AI-pattern it replaced.
