@@ -336,7 +336,7 @@ If asked, also offer:
 - `references/hook-formulas.md` — all 38 hook formulas with examples.
 - `references/platform-rules.md` — full platform pacing, caption, and CTA
   rules.
-- `references/ai-patterns.md` — the 25-point AI-tell checklist with
+- `references/ai-patterns.md` — the 23-point AI-tell checklist with
   before/after rewrites.
 - `references/psychology.md` — the research this skill is built on: curiosity
   gap theory, the Zeigarnik effect, emotional arousal and sharing, the STEPPS

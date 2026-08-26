@@ -1,4 +1,4 @@
-# AI Writing Patterns Checklist (25 points)
+# AI Writing Patterns Checklist (23 points)
 
 These are stylistic tells, not proof of AI authorship — human writers can hit
 some of these too. The value isn't detection, it's a checklist: if a draft

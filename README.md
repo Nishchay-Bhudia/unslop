@@ -108,7 +108,7 @@ See [`examples/`](./examples) for five full before/after transformations
   lever, each with a real example — [`references/hook-formulas.md`](./references/hook-formulas.md).
 - 🧠 **Psychology-backed, not detection-based** — curiosity gap theory, the
   Zeigarnik effect, STEPPS — [`references/psychology.md`](./references/psychology.md).
-- 🔍 **25-point AI-tell checklist** with before/after fixes for each pattern —
+- 🔍 **23-point AI-tell checklist** with before/after fixes for each pattern —
   [`references/ai-patterns.md`](./references/ai-patterns.md).
 - 📱 **Platform-native pacing** for TikTok, Reels, Shorts, X, and LinkedIn —
   [`references/platform-rules.md`](./references/platform-rules.md).
@@ -166,7 +166,7 @@ Four more full transformations (Reels, Shorts, X, LinkedIn) in
 - [`SKILL.md`](./SKILL.md) — the full, executable skill definition.
 - [`references/hook-formulas.md`](./references/hook-formulas.md) — all 38 hook formulas.
 - [`references/platform-rules.md`](./references/platform-rules.md) — platform pacing and caption rules.
-- [`references/ai-patterns.md`](./references/ai-patterns.md) — the 25-point AI-tell checklist.
+- [`references/ai-patterns.md`](./references/ai-patterns.md) — the 23-point AI-tell checklist.
 - [`references/psychology.md`](./references/psychology.md) — the research this skill is built on.
 - [`examples/`](./examples) — five before/after transformations plus a generate-from-scratch walkthrough.
 - [`test-suite/test-cases.md`](./test-suite/test-cases.md) — 20 regression test cases.
