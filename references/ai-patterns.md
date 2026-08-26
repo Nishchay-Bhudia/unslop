@@ -17,9 +17,15 @@ wrote it. Each entry has the pattern, why it reads as generic, and a fix.
 
 5. **Symmetrical paragraph structure** — Every paragraph follows topic sentence → explanation → mini-summary. *Fix:* Vary paragraph shape; let some be one line.
 
+6. **Rhetorical questions nobody would actually answer** — "Ever wonder what sets brands apart?" *Fix:* Cut it, or replace with a question a real reader could actually answer in one word — that's the difference between filler and an engagement question that gets real replies (see the "genuine question" guidance in Stage 4).
+
+7. **Em-dash sentence bolting** — Two unrelated clauses stapled together for false punch: "Here's how to grow—and fast." *Fix:* Either commit to one clean sentence or actually earn the pause with a period.
+
+8. **Negative parallelism repeated 3+ times** — "That's not X, that's Y" used as a structural crutch across multiple sentences in the same piece. *Fix:* Use it once if at all; state the point plainly the other times.
+
 ## Vocabulary tells
 
-1. **Repetitive AI vocabulary** — "delve into", "testament to", "in the realm of", "unlock", "game-changing", "revolutionize". *Fix:* Replace with the plain verb: "look at", "shows", "in", "get", "useful", "change".
+1. **Repetitive AI vocabulary** — "delve into", "testament to", "in the realm of", "unlock", "game-changing"/"game-changer", "revolutionize", "transformative", "leverage", "seamless integration", "comprehensive", "dive into", "ever-evolving", "utilize", "facilitate", "landscape", "tapestry". *Fix:* Replace with the plain verb or noun: "look at", "shows", "in", "get", "useful", "change", "use", "works with", "full", "check out", "changing", "use", "help", "field"/"space", "mix".
 
 2. **Generic adjectives** — "better", "easier", "powerful" with no referent. *Fix:* Attach a number or a mechanism: "40% faster", "one-click setup".
 
