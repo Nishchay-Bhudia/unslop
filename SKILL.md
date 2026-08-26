@@ -82,33 +82,41 @@ the pipeline.
 
 ### How to ask
 
-There are two different question shapes here — don't collapse them into one.
+Always use the AskUserQuestion tool for every clarifying question this skill
+asks — platform, feel, and missing details alike. Never drop to a plain-text
+question when the tool is available; it's the only path, not a fallback.
+
+There are still two different option shapes inside that one tool, though —
+don't write them the same way:
 
 **Choice questions** — platform, feel/tone, anything where a small set of
-genuinely different real answers exists. Use the AskUserQuestion tool. This
-is the default way this skill asks anything with a real answer-set, not a
-fallback for when prose would be awkward.
-
-Make the options actually good:
+genuinely different real answers exists.
 - 2-4 options, each a complete, opinionated real answer — not a category
   label. "Vulnerable, behind-the-scenes" is an option; "casual" is not.
 - Each option has to lead to a genuinely different rewrite. If two options
   would produce basically the same post, cut one.
-- Cover the real spread of likely answers, not just the obvious ones plus
-  filler — think about what this specific draft could plausibly be before
-  writing the list, don't reuse a generic template.
+- Cover the real spread of likely answers — think about what this specific
+  draft could plausibly be before writing the list, don't reuse a generic
+  template.
 - Don't add your own "not sure" or "something else" option — the tool
   already gives the user "Other" for free; adding one wastes a slot.
-- Batch every choice question that applies into one call, not one
-  round-trip per question. Proceed with whatever comes back, including
-  "Other" or an answer that doesn't map to any option.
 
 **Open-detail questions** — a missing concrete fact: what a company does,
-why a decision got made, a real number. There is no real option-set to offer
-here — anything you listed would just be invented plausible-sounding
-answers, which is exactly what the Guardrails forbid. Don't dress this up as
-multiple choice. Ask it directly, in plain text, as one real question with
-no options attached, and let the user type the actual answer.
+why a decision got made, a real number. Options here still have to be real,
+plausible candidate answers grounded in whatever context exists (industry,
+role, the rest of the draft) — genuine guesses the user can confirm, correct,
+or wave off, never a meta-option about *how* they'd like to answer ("I'll
+type it" / "skip it" / "use a placeholder" are not answers to the question
+and don't belong in the list). If you can't ground a plausible guess in
+anything real, use short, distinct real categories the answer would fall
+into instead of a blind guess. Either way, the point of the options is to
+save the user a keystroke if one is close — the tool's built-in "Other" is
+what actually carries the real, exact answer, and that's fine; it's not a
+failure of the options, it's the escape hatch working as intended.
+
+Batch every question that applies into one call, not one round-trip per
+question. Proceed with whatever comes back, including "Other" or an answer
+that doesn't map to any option.
 
 **Example — platform genuinely unclear** (choice question):
 > Question: "Which platform is this for?"
@@ -119,8 +127,12 @@ no options attached, and let the user type the actual answer.
 > Options: "Confident, matter-of-fact", "Vulnerable, behind-the-scenes",
 > "Funny, self-aware", "Contrarian, a little combative"
 
-**Example — a real detail is missing** (open-detail question, no options):
-> "What does Valyu's product actually do — one concrete sentence?"
+**Example — a real detail is missing** (open-detail question, grounded
+guesses, not meta-options):
+> Question: "What does Valyu's product actually do?"
+> Options: "AI research assistant for analysts", "Data/intelligence platform
+> for enterprises", "AI copilot for research teams" — plus the tool's own
+> "Other" for the exact real answer.
 
 ## MODE DETECTION
 
