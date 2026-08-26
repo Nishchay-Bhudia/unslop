@@ -164,3 +164,6 @@ No. The [Guardrails section of SKILL.md](./SKILL.md#guardrails) explicitly forbi
 
 **Can I use it for multiple platforms from one draft?**
 Yes — ask for a multi-platform pass (see Advanced Options in [`SKILL.md`](./SKILL.md#advanced-options)) and it adapts the same core message to each platform's actual pacing rules, not just a reformat.
+
+**Is this free?**
+Yes, MIT-licensed, no paywalls, no usage limits, forever.
