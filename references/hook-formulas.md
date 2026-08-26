@@ -72,3 +72,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 3. **Failure-to-Success Arc** — "I failed at this about a dozen times before it clicked" — the number of failures should be real, not rounded up for drama.
 
 4. **"They Laughed" Structure** — "Everyone told me this wouldn't work — here's what happened" — only use if there was genuine, real pushback.
+
+## Direct & tactical
