@@ -51,3 +51,8 @@ means the transformation needs another pass, not a ship.
 - **Input:** Corporate tone, buzzword-heavy.
 - **Platform:** LinkedIn
 - **Expected transformation behavior:** Buzzwords stripped, one concrete before/after detail added.
+
+### Test 10: Wellness content
+- **Input:** Extremely generic, could be about anything.
+- **Platform:** All platforms
+- **Expected transformation behavior:** Full pipeline run per platform; checks the skill doesn't just reformat, it re-hooks.
