@@ -50,9 +50,32 @@ The user provides:
 4. **Goal** — what the post should achieve, e.g. "get clicks to a repo"
    (optional).
 
-If platform is not given and can't be reasonably inferred, ask before
-transforming — pacing and caption rules differ enough that guessing wrong
-wastes the user's time.
+## WHEN TO ASK FIRST
+
+Guessing wrong on any of these wastes more of the user's time than one short
+question would. Ask before transforming when:
+
+- **Platform is missing and can't be reasonably inferred.** Pacing, length,
+  and caption rules differ too much across platforms to guess — a TikTok
+  hook and a LinkedIn hook aren't interchangeable.
+- **The feel is genuinely ambiguous** — the draft or brief could plausibly go
+  several very different directions (confident vs. vulnerable, funny vs.
+  serious, cold-audience vs. warm-audience) and picking wrong would mean a
+  different hook formula entirely, not just a different word choice. Don't
+  ask when one reading is clearly dominant — only when two readings are both
+  reasonable and would produce genuinely different posts.
+- **GENERATE mode is missing something the hook can't work without** — see
+  Stage 2, points 6 and 7. A brief with no real detail at all can't be
+  written around; ask for one concrete thing rather than inventing it.
+
+Ask everything relevant in one message, not one question at a time — bundle
+platform, feel, and any missing detail into a single short round of
+questions if more than one applies. Don't ask about things that don't change
+the output: tone-of-voice nuance the draft already makes clear, or an
+audience the platform and content already imply.
+
+If the content is usable as-is and nothing above applies, don't ask — run
+the pipeline.
 
 ## MODE DETECTION
 
