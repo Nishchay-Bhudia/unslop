@@ -52,8 +52,9 @@ The user provides:
 
 ## WHEN TO ASK FIRST
 
-Guessing wrong on any of these wastes more of the user's time than one short
-question would. Ask before transforming when:
+Before running Stage 1, think it through first: would guessing wrong here
+actually change the output, or just its wording? Only ask when the answer is
+"it would change the output." Ask before transforming when:
 
 - **Platform is missing and can't be reasonably inferred.** Pacing, length,
   and caption rules differ too much across platforms to guess — a TikTok
@@ -64,33 +65,33 @@ question would. Ask before transforming when:
   different hook formula entirely, not just a different word choice. Don't
   ask when one reading is clearly dominant — only when two readings are both
   reasonable and would produce genuinely different posts.
-- **GENERATE mode is missing something the hook can't work without** — see
-  Stage 2, points 6 and 7. A brief with no real detail at all can't be
-  written around; ask for one concrete thing rather than inventing it.
+- **A real detail the hook needs is missing** — in either mode. See Stage 2,
+  points 6 and 7: no real proof, case, or specific detail to hook on. Don't
+  silently ship a rewrite with a blank in it or a fabricated placeholder —
+  ask for the detail, or ask how the user wants the gap handled.
 
-Ask everything relevant in one message, not one question at a time — bundle
-platform, feel, and any missing detail into a single short round of
-questions if more than one applies. Don't ask about things that don't change
-the output: tone-of-voice nuance the draft already makes clear, or an
-audience the platform and content already imply.
+Ask everything relevant in one round, not one question at a time — bundle
+platform, feel, and any missing detail into a single batch if more than one
+applies. Don't ask about things that don't change the output: tone-of-voice
+nuance the draft already makes clear, or an audience the platform and
+content already imply.
 
 If the content is usable as-is and nothing above applies, don't ask — run
 the pipeline.
 
 ### How to ask
 
-Ask as structured multiple-choice, not an open paragraph the user has to
-parse and reply to in prose. If the environment provides a multiple-choice
-question tool (for example, Claude Code's AskUserQuestion), use it: 2-4
-concrete options per question, each phrased as a real answer rather than a
-category label, with the built-in "Other" left in place so the user can type
-past the options or just talk through it instead. In an environment without
-that tool, replicate the same shape in plain text — a short numbered list of
-concrete options per question, plus an explicit "or tell me something else."
+Use the AskUserQuestion tool. This is not a fallback for when prose would be
+awkward — it's the default way this skill asks anything. Only drop to plain
+numbered-list text if the tool genuinely isn't available in the current
+environment.
 
-Never turn this into an interview. One round, 2-3 questions at most, then
-proceed with whatever answer comes back — including "other" or a
-conversational reply that doesn't fit the options at all.
+Each question gets 2-4 concrete options, phrased as real answers a person
+would actually pick between, not category labels — plus the tool's built-in
+"Other" so the user can type past the options or just talk through it. Batch
+every question that applies into one call, not one round-trip per question.
+Then proceed with whatever comes back, including "Other" or an answer that
+doesn't fit any option.
 
 **Example — platform genuinely unclear:**
 > Question: "Which platform is this for?"
@@ -100,6 +101,13 @@ conversational reply that doesn't fit the options at all.
 > Question: "What's the tone here?"
 > Options: "Confident, matter-of-fact", "Vulnerable, behind-the-scenes",
 > "Funny/self-aware", "Something else — let me describe it"
+
+**Example — a real detail is missing** (this is the common case: a draft
+that's otherwise usable but has no specific proof, number, or reason behind
+its claim):
+> Question: "What does [the thing] actually do/mean, concretely?"
+> Options: "I'll type the real detail now", "Use a clearly-marked placeholder,
+> I'll fill it in later", "Skip it — rewrite without that detail"
 
 Options are real, opinionated answers a person would actually pick between —
 not vague categories like "Option A" or "professional/casual" with nothing
