@@ -86,3 +86,8 @@ means the transformation needs another pass, not a ship.
 - **Input:** Written as if for strangers.
 - **Platform:** Instagram Reels
 - **Expected transformation behavior:** Skill should shift to BAB framing since the real audience already follows the creator.
+
+### Test 17: Overly emotional draft
+- **Input:** All-caps outrage, no narrative.
+- **Platform:** TikTok
+- **Expected transformation behavior:** Skill should embed the anger in a real story arc, not just amplify volume.
