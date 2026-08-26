@@ -116,7 +116,7 @@ See [`examples/`](./examples) for five full before/after transformations
   — [`references/platform-rules.md`](./references/platform-rules.md).
 - 🛡️ **Guardrails against fabrication** — never invents stats, credentials,
   or personal experience to sound more convincing.
-- 🧪 **20-case test suite** for regression-checking any change to the skill —
+- 🧪 **23-case test suite** for regression-checking any change to the skill —
   [`test-suite/test-cases.md`](./test-suite/test-cases.md).
 - 📦 **Fully open-source, MIT-licensed**, zero paywalls, zero usage limits.
 
