@@ -92,3 +92,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 3. **Thread / Series Hook** — "Long thread on this, worth the read" — sets expectation up front so people don't bounce mid-thread.
 
 4. **Subject Line Double-Punch** — Bold on-screen claim plus a question in the same frame — gives both a skimmer and a reader a reason to stop.
+
+5. **Timestamp Hook** — "This is happening right now" — only honest when it's actually current; stale "urgent" content reads as manipulative fast.
