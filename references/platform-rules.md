@@ -32,3 +32,15 @@ Stage 5 of `SKILL.md`.
   corporate framing.
 - **CTA:** ask for a save or share explicitly — it performs better than a
   generic "let me know what you think."
+
+## YouTube Shorts
+
+- **Length:** 30-60 seconds is the sweet spot.
+- **Discovery model:** Shorts compound through search, not feed velocity —
+  this is the one platform where the title matters more than the hook.
+- **Title:** write it as an SEO keyword phrase people would actually search,
+  not a curiosity hook.
+- **Content:** educational, how-to, and myth-busting content outperforms
+  trend-chasing because it stays searchable after the trend dies.
+- **Tradeoff:** lowest immediate engagement rate of the major short-form
+  platforms, but the best passive, long-tail discovery.
