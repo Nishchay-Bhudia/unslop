@@ -52,3 +52,12 @@ wrote it. Each entry has the pattern, why it reads as generic, and a fix.
 2. **Flat emotional register** — Same emotional intensity from the first line to the last. *Fix:* Let intensity rise and fall — real stories have a climax, not a plateau.
 
 3. **No factual specificity that could be checked** — Every claim is phrased so it can't actually be verified or falsified. *Fix:* State something concrete enough that it could be wrong — that's what makes it credible.
+
+## A note on AI detectors
+
+AI detectors have documented false-positive rates as high as 40-80% on
+non-native English speakers, technical writing, and structured documents.
+This checklist is not a detector-evasion tool and doesn't promise to beat
+one. It's a style checklist: content that trips several of these patterns at
+once reads as generic to a human reader, independent of whatever a detector
+says about it. Optimize for the reader, not the classifier.
