@@ -258,7 +258,9 @@ throw out the whole draft and start over.
 
 Return, in this order:
 
-1. **Diagnosis** — the 3-5 AI patterns found in Stage 1.
+1. **Diagnosis** (TRANSFORM mode) — the 3-5 AI patterns found in Stage 1. In
+   GENERATE mode, skip this and instead state the mode: "Built from scratch
+   off your brief."
 2. **Core message** — the distilled 1-2 sentence version from Stage 2.
 3. **Hook chosen** — which formula, and why it fits this audience/platform.
 4. **Transformed content** — the full platform-formatted post/script.
