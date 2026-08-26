@@ -137,11 +137,12 @@ See [`examples/`](./examples) for five full before/after transformations
 
 | Platform | Hook window | Length | Must-have |
 |---|---|---|---|
-| TikTok | 3 seconds | ≤ 60s | text overlay synced to spoken hook |
-| Instagram Reels | ~2 seconds | 15-90s (15-30s optimal) | save/share-focused CTA |
+| TikTok | 0.7-3 seconds | ≤ 60s, 100-150 char caption | text overlay synced to spoken hook |
+| Instagram Reels | ~2 seconds | 15-90s; caption survives ~125-char cutoff | save/share-focused CTA, avoid the 60-120 char "caption valley" |
 | YouTube Shorts | ~5 seconds | 30-60s | SEO-keyword title, not a hook |
 | X / Twitter | first 10 words | 15-30s or thread | each thread tweet stands alone |
-| LinkedIn | first sentence | 45-90s | mandatory on-screen captions (85% watch muted) |
+| LinkedIn | ~210 char mobile cutoff | 45-90s video or 800-1,200 char post | mandatory on-screen captions (85% watch muted) |
+| Facebook | opening fact/detail | 40-250 chars (40-80 optimal) | FLAME structure, genuine closing question |
 
 Full detail and rationale: [`references/platform-rules.md`](./references/platform-rules.md).
 
