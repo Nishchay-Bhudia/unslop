@@ -270,7 +270,8 @@ Before returning output, verify:
    them or flag them to the user instead of shipping them.
 6. Does the ending deliver on what the hook promised?
 7. Is the CTA right for the platform (TikTok/Reels = follow/save, LinkedIn =
-   comment/connect, YouTube = subscribe, X = reply/retweet)?
+   comment/connect, YouTube = subscribe, X = reply/retweet, Facebook =
+   a genuine question that invites a real comment thread)?
 8. **TRANSFORM mode:** recheck against the Stage 1 list — are those specific
    patterns actually gone now? **GENERATE mode:** run the Stage 4 checklist
    against the draft one more time as if it were someone else's — a
