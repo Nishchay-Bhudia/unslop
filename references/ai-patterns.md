@@ -30,3 +30,5 @@ wrote it. Each entry has the pattern, why it reads as generic, and a fix.
 5. **Proper noun avoidance / generic names** — 60-70% of invented example names default to "Emily", "Sarah", "John". *Fix:* Use a specific, less-common name, or better, a real one with permission.
 
 ## Content-level tells
+
+1. **Lack of specific detail** — Broad abstractions instead of a timestamp, a name, a sensory detail. *Fix:* Add the exact number, date, or name — even a small one.
