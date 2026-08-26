@@ -22,3 +22,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 5. **The Question Hook** — "How many of you have made this exact mistake?" — implicates the viewer directly.
 
 6. **Impossibly Specific Number** — "We spent $87,000 to find this out" — a number too precise to be made up reads as credible.
+
+7. **The Secret Reveal** — "Nobody's talking about what actually moves the needle here" — implies exclusive access.
