@@ -113,3 +113,15 @@ one per platform.
 | 4. Humanize | Varies rhythm, replaces inflated vocabulary, adds specificity, cuts hedging. |
 | 5. Platform adapt | Reformats for the target platform's actual pacing, caption, and CTA rules. |
 | 6. Quality control | Re-checks against the Stage 1 diagnosis before returning anything. |
+
+## Platform rules at a glance
+
+| Platform | Hook window | Length | Must-have |
+|---|---|---|---|
+| TikTok | 3 seconds | ≤ 60s | text overlay synced to spoken hook |
+| Instagram Reels | ~2 seconds | 15-90s (15-30s optimal) | save/share-focused CTA |
+| YouTube Shorts | ~5 seconds | 30-60s | SEO-keyword title, not a hook |
+| X / Twitter | first 10 words | 15-30s or thread | each thread tweet stands alone |
+| LinkedIn | first sentence | 45-90s | mandatory on-screen captions (85% watch muted) |
+
+Full detail and rationale: [`references/platform-rules.md`](./references/platform-rules.md).
