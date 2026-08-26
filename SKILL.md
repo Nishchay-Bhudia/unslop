@@ -242,10 +242,18 @@ write it for search, not scroll. Prefer evergreen framing over trend-chasing.
 than ~280 characters, structure as a thread (max 5-7 tweets) with each tweet
 able to stand alone.
 
-**LinkedIn** — 45-90s, professional framing without corporate flatness,
-on-screen captions are mandatory (not optional — most views are muted),
-native upload only (external links get suppressed), end with a real question
-or specific ask, not "thoughts?".
+**LinkedIn** — 45-90s video (4:5 or 1:1) or 800-1,200 character text post,
+professional framing without corporate flatness, on-screen captions are
+mandatory for video (not optional — most views are muted), native upload
+only (external links get suppressed — put a link in the first comment
+instead), short lines of 8-12 words with real line breaks, end with a real
+question or specific ask, not "thoughts?".
+
+**Facebook** — 40-250 character caption (40-80 is the strongest band),
+built on the FLAME structure (Fact/Scene → Line of tension → Ask → Moment →
+Emphasis), plain text or native video over link posts (links suppress reach
+— put them in the first comment), 1-3 hashtags at most, close on a genuine
+question, not "like if you agree."
 
 Full detail and rationale per platform: `references/platform-rules.md`.
 
