@@ -100,3 +100,16 @@ one per platform.
 - 🧪 **20-case test suite** for regression-checking any change to the skill —
   [`test-suite/test-cases.md`](./test-suite/test-cases.md).
 - 📦 **Fully open-source, MIT-licensed**, zero paywalls, zero usage limits.
+
+## How it works
+
+<img src="assets/hook-formula-diagram.svg" alt="Hook, hold, payoff diagram" width="100%" />
+
+| Stage | What happens |
+|---|---|
+| 1. Diagnose | Scans for AI tells: uniform rhythm, hedging, filler transitions, generic vocabulary. |
+| 2. Extract | Isolates the real core message, strongest claim, and audience — before touching any wording. |
+| 3. Reconstruct | Picks a hook formula by audience awareness, builds a hook → hold → payoff arc. |
+| 4. Humanize | Varies rhythm, replaces inflated vocabulary, adds specificity, cuts hedging. |
+| 5. Platform adapt | Reformats for the target platform's actual pacing, caption, and CTA rules. |
+| 6. Quality control | Re-checks against the Stage 1 diagnosis before returning anything. |
