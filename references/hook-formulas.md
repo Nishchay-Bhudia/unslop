@@ -90,3 +90,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 2. **Reply / Quote Hook** — "Replying to everyone who asked how I actually did this" — frames the post as answering real demand.
 
 3. **Thread / Series Hook** — "Long thread on this, worth the read" — sets expectation up front so people don't bounce mid-thread.
+
+4. **Subject Line Double-Punch** — Bold on-screen claim plus a question in the same frame — gives both a skimmer and a reader a reason to stop.
