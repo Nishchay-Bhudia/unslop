@@ -101,3 +101,8 @@ means the transformation needs another pass, not a ship.
 - **Input:** Built around a fading trend, no evergreen value.
 - **Platform:** YouTube Shorts
 - **Expected transformation behavior:** Skill should reframe around search-durable value per platform rules.
+
+### Test 20: Multi-platform brief
+- **Input:** One paragraph, user wants 3 platform versions.
+- **Platform:** TikTok + Reels + LinkedIn
+- **Expected transformation behavior:** Skill should run the Advanced Options multi-platform pass, not repeat one output three times.
