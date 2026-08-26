@@ -11,3 +11,8 @@ means the transformation needs another pass, not a ship.
 - **Input:** Generic AI product-announcement paragraph, no numbers.
 - **Platform:** TikTok
 - **Expected transformation behavior:** Contrarian or how-to-promise hook; forces the user to supply one real number.
+
+### Test 2: Founder story
+- **Input:** Vague 'exciting journey' personal post.
+- **Platform:** LinkedIn
+- **Expected transformation behavior:** Professional insight frame, mandatory captions, one honest tradeoff surfaced.
