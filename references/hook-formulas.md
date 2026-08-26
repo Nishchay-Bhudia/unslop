@@ -18,3 +18,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 3. **The Specific Number** — "3 mistakes I see every new creator make" — odd, specific numbers read as data, not filler.
 
 4. **Counterintuitive Claim** — "Posting less got me more engagement" — violates the obvious assumption, forces a re-read.
+
+5. **The Question Hook** — "How many of you have made this exact mistake?" — implicates the viewer directly.
