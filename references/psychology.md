@@ -13,3 +13,22 @@ stylistic preference — it's the mechanism the recommendation algorithm uses
 to decide whether to keep showing your content to anyone else. A technically
 excellent video with a weak hook never gets the chance to compound, because
 distribution is gated before the good part ever plays.
+
+## Curiosity gaps (Loewenstein's Information Gap Theory)
+
+A curiosity gap isn't intellectual interest — it's a mild state of
+discomfort the brain is motivated to resolve. Three conditions make a gap
+work:
+
+1. **The viewer already knows enough to sense something's missing.** A
+   "revealing a secret" hook with zero context just reads as confusing, not
+   intriguing.
+2. **The gap is specific**, not vague. "You're doing X wrong" consistently
+   outperforms "wait until you see this" — a nameable gap is more compelling
+   than a vague tease.
+3. **The gap feels solvable within the length of the content.** An
+   unresolvable gap produces frustration and drop-off, not engagement.
+
+Headline specificity actually has a curved relationship with clicks: too
+vague underperforms, but so does giving away the whole answer. The strongest
+hooks name the shape of the answer without handing it over.
