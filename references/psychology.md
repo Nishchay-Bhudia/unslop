@@ -32,3 +32,12 @@ work:
 Headline specificity actually has a curved relationship with clicks: too
 vague underperforms, but so does giving away the whole answer. The strongest
 hooks name the shape of the answer without handing it over.
+
+## The Zeigarnik effect
+
+Bluma Zeigarnik's 1927 finding: people remember unfinished tasks roughly
+twice as well as completed ones. Applied to short-form content — open a loop
+in the hook, maintain tension through the middle, and close the loop
+explicitly at the end. The close matters as much as the open: a hook that
+promises "3 mistakes" and only delivers two damages trust and depresses
+performance on the *next* piece of content too, not just this one.
