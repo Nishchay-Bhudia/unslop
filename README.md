@@ -38,3 +38,27 @@ and platform-specific retention data (TikTok's 3-second gate, LinkedIn's 85%
 muted-viewing rate, etc.) to make content that's genuinely more compelling —
 and it refuses to fabricate stats, credentials, or experiences to get there.
 See [`GUARDRAILS`](./SKILL.md#guardrails).
+
+## Install
+
+**Claude Code (recommended)**
+```bash
+git clone https://github.com/nishchay-bhudia/un-ai-ify.git
+mkdir -p ~/.claude/skills
+cp -r un-ai-ify/. ~/.claude/skills/un-ai-ify/
+```
+Restart Claude Code (or start a new session). The skill auto-triggers when
+you paste content that sounds AI-generated, or when you say things like
+"humanize this" or "un-AI-ify this."
+
+**Project-level (this repo's skill applies only inside one project)**
+```bash
+mkdir -p .claude/skills
+cp -r un-ai-ify/. .claude/skills/un-ai-ify/
+```
+
+**Claude.ai**
+1. Download this repo as a ZIP (Code → Download ZIP), or `git clone` then zip
+   the `un-ai-ify/` folder.
+2. Go to **Settings → Customize → Skills → Upload skill**.
+3. Upload the ZIP.
