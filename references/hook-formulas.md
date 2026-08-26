@@ -10,3 +10,5 @@ Never fill these with numbers or claims the user didn't actually provide —
 a hook with a fabricated statistic is worse than a slower, honest one.
 
 ## Curiosity-driven
+
+1. **The Cliffhanger** — "What if I told you the thing you're optimizing for is the wrong metric?" — opens a gap without naming the answer yet.
