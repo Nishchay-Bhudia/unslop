@@ -43,8 +43,9 @@ missing. Do not invent it.
 The user provides:
 1. **Content** — either an existing draft to fix, or a bare idea/bullet
    points/brief to build from scratch (required — one or the other).
-2. **Platform** — TikTok / Instagram Reels / YouTube Shorts / X / LinkedIn
-   (optional; infer from context or ask if genuinely ambiguous).
+2. **Platform** — TikTok / Instagram Reels / YouTube (Shorts or long-form) /
+   X / LinkedIn / Facebook (optional; infer from context or ask if genuinely
+   ambiguous).
 3. **Audience** — e.g. "18-25 year old indie hackers" (optional).
 4. **Goal** — what the post should achieve, e.g. "get clicks to a repo"
    (optional).
