@@ -48,3 +48,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 6. **Before/After Data** — Quantify the transformation exactly: "3.3% to 11% completion rate" beats "way better retention."
 
 ## Emotional triggers
+
+1. **Fear / FOMO** — "Everyone except you is already doing this" — use sparingly; overused it reads as manipulative.
