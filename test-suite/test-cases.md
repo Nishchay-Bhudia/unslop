@@ -46,3 +46,8 @@ means the transformation needs another pass, not a ship.
 - **Input:** Frustrated but unfocused paragraph.
 - **Platform:** TikTok
 - **Expected transformation behavior:** Empathy hook + specific stakes, not generic outrage.
+
+### Test 9: Feature announcement
+- **Input:** Corporate tone, buzzword-heavy.
+- **Platform:** LinkedIn
+- **Expected transformation behavior:** Buzzwords stripped, one concrete before/after detail added.
