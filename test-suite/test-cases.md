@@ -61,3 +61,8 @@ means the transformation needs another pass, not a ship.
 - **Input:** A genuinely well-written, specific post.
 - **Platform:** TikTok
 - **Expected transformation behavior:** Skill should recognize this and make minimal or no changes — tests against over-editing.
+
+### Test 12: Missing platform
+- **Input:** Solid content, platform unspecified.
+- **Platform:** Unspecified
+- **Expected transformation behavior:** Skill should ask which platform rather than guessing wrong.
