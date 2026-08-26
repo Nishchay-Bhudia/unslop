@@ -10,3 +10,5 @@ wrote it. Each entry has the pattern, why it reads as generic, and a fix.
 1. **Uniform sentence length** — Sentences cluster around 12-18 words with little variance. *Fix:* Mix a 4-word sentence with a 28-word one in the same paragraph.
 
 2. **Excessive transitions** — "In summary", "as a result", "overall", "furthermore" used more than ~2x per 300 words. *Fix:* Cut them. Ideas can follow each other without a label.
+
+3. **Hedging language overload** — "may", "might", "could", "suggests", "appears to" stacked defensively. *Fix:* State the point directly, or cut it if you're not confident enough to.
