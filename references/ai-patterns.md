@@ -12,3 +12,5 @@ wrote it. Each entry has the pattern, why it reads as generic, and a fix.
 2. **Excessive transitions** — "In summary", "as a result", "overall", "furthermore" used more than ~2x per 300 words. *Fix:* Cut them. Ideas can follow each other without a label.
 
 3. **Hedging language overload** — "may", "might", "could", "suggests", "appears to" stacked defensively. *Fix:* State the point directly, or cut it if you're not confident enough to.
+
+4. **Over-perfect grammar** — Zero contractions, fragments, or false starts across a long piece. *Fix:* Let a sentence trail off or start with "And" — real writing isn't uniformly polished.
