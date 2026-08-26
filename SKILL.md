@@ -162,15 +162,29 @@ preview loses people at the 10-15s mark. Both matter.
 
 ### 3c. Match pacing to the platform
 
-- TikTok: hook must land by 3 seconds.
+- TikTok: hook must land by 3 seconds, and the first ~0.7 seconds decides
+  whether the viewer commits at all — don't waste it on a fade-in or a logo.
 - Reels: hook by ~2 seconds, visual pattern interrupt matters as much as
   words.
 - Shorts: hook can take up to 5 seconds; searchability matters more than
   shock.
 - X: first 10 words are the whole hook — most of the audience never scrolls
   past them.
-- LinkedIn: hook can be a full sentence, but on-screen captions are
-  mandatory — 85% of viewers watch muted.
+- LinkedIn: the hook has to survive a hard truncation around 210 characters
+  on mobile (~250 on desktop) before "…see more" cuts it — on-screen video
+  captions are also mandatory, since 85% of viewers watch muted.
+- Facebook: no fast hook window in the video sense — instead, the caption
+  itself has to open on a concrete fact or detail (the "F" in the FLAME
+  framework below) within the first sentence, since Facebook rewards
+  short, conversation-starting text over a fast visual hook.
+- Instagram feed caption (any platform where the caption itself is the
+  primary text): the hook must survive the ~125-character truncation point
+  before "…more" — see `references/platform-rules.md` for the full cheat
+  sheet of cutoffs and optimal caption-length ranges per platform.
+
+For Facebook specifically, prefer the **FLAME** structure over a generic
+hook: Fact/Scene → Line of tension → Ask → Moment → Emphasis. Full detail:
+`references/platform-rules.md`.
 
 Full platform pacing rules: `references/platform-rules.md`.
 
