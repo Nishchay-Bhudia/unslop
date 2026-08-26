@@ -96,3 +96,8 @@ means the transformation needs another pass, not a ship.
 - **Input:** No caption/visual plan at all.
 - **Platform:** LinkedIn
 - **Expected transformation behavior:** Skill must add the mandatory on-screen caption plan, not just rewrite prose.
+
+### Test 19: Trend-chasing Shorts script
+- **Input:** Built around a fading trend, no evergreen value.
+- **Platform:** YouTube Shorts
+- **Expected transformation behavior:** Skill should reframe around search-durable value per platform rules.
