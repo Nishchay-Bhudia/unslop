@@ -81,3 +81,22 @@ cp -r un-ai-ify/. .claude/skills/un-ai-ify/
 
 See [`examples/`](./examples) for five full before/after transformations,
 one per platform.
+
+## Features
+
+- 🎯 **6-stage transformation pipeline** — diagnose, extract, reconstruct,
+  humanize, platform-adapt, quality-control (full detail in
+  [`SKILL.md`](./SKILL.md)).
+- 🪝 **38 hook formulas**, organized by audience awareness and psychological
+  lever, each with a real example — [`references/hook-formulas.md`](./references/hook-formulas.md).
+- 🧠 **Psychology-backed, not detection-based** — curiosity gap theory, the
+  Zeigarnik effect, STEPPS — [`references/psychology.md`](./references/psychology.md).
+- 🔍 **25-point AI-tell checklist** with before/after fixes for each pattern —
+  [`references/ai-patterns.md`](./references/ai-patterns.md).
+- 📱 **Platform-native pacing** for TikTok, Reels, Shorts, X, and LinkedIn —
+  [`references/platform-rules.md`](./references/platform-rules.md).
+- 🛡️ **Guardrails against fabrication** — never invents stats, credentials,
+  or personal experience to sound more convincing.
+- 🧪 **20-case test suite** for regression-checking any change to the skill —
+  [`test-suite/test-cases.md`](./test-suite/test-cases.md).
+- 📦 **Fully open-source, MIT-licensed**, zero paywalls, zero usage limits.
