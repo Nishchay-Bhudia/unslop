@@ -155,3 +155,6 @@ Four more full transformations (Reels, Shorts, X, LinkedIn) in
 - [`test-suite/test-cases.md`](./test-suite/test-cases.md) — 20 regression test cases.
 
 ## FAQ
+
+**Will this help me beat AI detectors?**
+No, and it's not trying to. Detector behavior changes constantly and has high false-positive rates on non-native English and technical writing. This skill optimizes for a human reader's attention, not a classifier.
