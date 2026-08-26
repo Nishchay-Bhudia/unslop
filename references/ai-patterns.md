@@ -36,3 +36,5 @@ wrote it. Each entry has the pattern, why it reads as generic, and a fix.
 2. **Vague sourcing** — "Studies show", "experts argue" with no author, journal, or date. *Fix:* Cite it properly, or replace with "based on what I've tested" if that's true.
 
 3. **Predictable structure** — Definition → explanation → summary, every time. *Fix:* Open in the middle of the story instead of with a definition.
+
+4. **Formulaic constructions** — "It is not just X. It is also Y." *Fix:* Say the actual thing plainly instead of using the template.
