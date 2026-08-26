@@ -40,3 +40,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 2. **Case Study Lead** — "I tested this against 500 real creators" — leads with the method, not the adjective.
 
 3. **Insider Reveal** — "Working inside the algorithm team taught me this" — implies access; must be true, not aspirational.
+
+4. **Social Proof Opener** — "12,000 people are already doing this wrong" — a real, checkable number beats "everyone".
