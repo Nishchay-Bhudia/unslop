@@ -48,3 +48,5 @@ wrote it. Each entry has the pattern, why it reads as generic, and a fix.
 ## Detection-adjacent tells (use with caution)
 
 1. **Zero regional English variance** — No trace of the writer's actual dialect, region, or idiom. *Fix:* Let real idiom through instead of smoothing it into 'standard' English.
+
+2. **Flat emotional register** — Same emotional intensity from the first line to the last. *Fix:* Let intensity rise and fall — real stories have a climax, not a plateau.
