@@ -161,7 +161,7 @@ Full detail and rationale: [`references/platform-rules.md`](./references/platfor
 > **Payoff preview:** "One post at day 61 changed everything, and it wasn't
 > the one I expected."
 
-Four more full transformations (Reels, Shorts, X, LinkedIn) in
+Five more full transformations (Reels, Shorts, X, LinkedIn, Facebook) in
 [`examples/`](./examples).
 
 ## Why this actually matters (the data)
@@ -193,7 +193,7 @@ Full sourcing and case studies: [`references/human-vs-ai-data.md`](./references/
 - [`references/ai-patterns.md`](./references/ai-patterns.md) — the 23-point AI-tell checklist.
 - [`references/psychology.md`](./references/psychology.md) — the research this skill is built on.
 - [`references/human-vs-ai-data.md`](./references/human-vs-ai-data.md) — measured human-vs-AI performance data and real case studies.
-- [`examples/`](./examples) — five before/after transformations plus a generate-from-scratch walkthrough.
+- [`examples/`](./examples) — six before/after transformations (one per platform) plus a generate-from-scratch walkthrough.
 - [`test-suite/test-cases.md`](./test-suite/test-cases.md) — 20 regression test cases.
 
 ## FAQ
