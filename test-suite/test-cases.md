@@ -31,3 +31,8 @@ means the transformation needs another pass, not a ship.
 - **Input:** Raw description with no visual cue.
 - **Platform:** Instagram Reels
 - **Expected transformation behavior:** Conversational caption, visual-pattern-interrupt hook, save-focused CTA.
+
+### Test 6: 7-item listicle
+- **Input:** '7 things everyone misses,' generic.
+- **Platform:** TikTok
+- **Expected transformation behavior:** Compressed into a 60s narrative arc, not a read-off list.
