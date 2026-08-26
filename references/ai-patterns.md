@@ -38,3 +38,5 @@ wrote it. Each entry has the pattern, why it reads as generic, and a fix.
 3. **Predictable structure** — Definition → explanation → summary, every time. *Fix:* Open in the middle of the story instead of with a definition.
 
 4. **Formulaic constructions** — "It is not just X. It is also Y." *Fix:* Say the actual thing plainly instead of using the template.
+
+5. **Generic lists** — "3 things you need to know" with no audience-specific framing. *Fix:* Name who the list is actually for and why these three, not others.
