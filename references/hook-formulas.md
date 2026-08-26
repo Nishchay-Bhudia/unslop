@@ -34,3 +34,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 11. **The Unfinished Sentence** — Cut the hook mid-thought on screen text while the voiceover keeps going — forces the eye to keep reading.
 
 ## Authority & proof
+
+1. **Credential Lead** — "As someone who's shipped 40 Claude Skills..." — only use a credential the user actually has.
