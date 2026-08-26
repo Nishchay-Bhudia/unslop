@@ -46,3 +46,5 @@ wrote it. Each entry has the pattern, why it reads as generic, and a fix.
 7. **Over-explanation** — Explains obvious things as if to a total novice. *Fix:* Cut the sentence that restates what the reader already inferred.
 
 ## Detection-adjacent tells (use with caution)
+
+1. **Zero regional English variance** — No trace of the writer's actual dialect, region, or idiom. *Fix:* Let real idiom through instead of smoothing it into 'standard' English.
