@@ -74,3 +74,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 4. **"They Laughed" Structure** — "Everyone told me this wouldn't work — here's what happened" — only use if there was genuine, real pushback.
 
 ## Direct & tactical
+
+1. **How-To Promise** — "Here's the exact 3-step process" — only promise a count you actually deliver.
