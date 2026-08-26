@@ -308,6 +308,15 @@ If asked, also offer:
   retention for TikTok, save rate for Reels, reply rate for X, etc.).
 - **Line-by-line breakdown** — every rewritten sentence shown with the
   specific AI-pattern it replaced.
+- **Content-mix planning** — if the user is planning a posting cadence, not
+  just one post, suggest the 70-20-10 split: ~70% AI-assisted routine
+  content (tips, highlights, scheduling posts), ~20% fully human-written
+  vulnerable/personal content (real stories, behind-the-scenes, milestones),
+  ~10% real-time/reactive content (trends, replies, in-the-moment posts).
+  This mix is what the research behind this skill measured outperforming
+  both pure-AI and pure-human approaches — see
+  `references/human-vs-ai-data.md`. Don't apply it rigidly to a single post;
+  it's a calendar-level suggestion, not a per-post rule.
 
 ## GUARDRAILS
 
