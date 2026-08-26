@@ -67,7 +67,11 @@ cp -r unslop/. .claude/skills/unslop/
 
 Paste a script, caption, or post that sounds robotic, vague, or written by
 ChatGPT. Say which platform it's for — TikTok, Reels, Shorts, X, LinkedIn, or
-Facebook — or leave it out and Claude will ask if it's genuinely unclear.
+Facebook — or leave it out. If the platform or tone is genuinely unclear,
+Claude asks first, as a couple of multiple-choice questions with real
+options and a "something else" you can type past, not an open-ended
+paragraph to figure out on your own.
+
 You'll get back the rewritten post first, then a short checklist: what a
 post actually needs to work on that platform, and where in the rewrite each
 one shows up. No essay, no score — just the post and the reasoning that fits
