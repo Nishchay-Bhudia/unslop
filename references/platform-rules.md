@@ -84,8 +84,21 @@ deliberately.
 - **Length:** 30-60 seconds is the sweet spot.
 - **Discovery model:** Shorts compound through search, not feed velocity —
   this is the one platform where the title matters more than the hook.
-- **Title:** write it as an SEO keyword phrase people would actually search,
-  not a curiosity hook.
+- **Title:** write it as a specific, keyword-led SEO phrase people would
+  actually search, not a curiosity hook. "How to add captions to a video
+  (step-by-step)" beats "Our favorite captioning tips and tricks" — the
+  specific version signals to both the algorithm and the viewer exactly what
+  they'll learn. Keep it to roughly 50-60 characters, keyword first.
+- **Description:** put the primary keyword in the first ~150 characters
+  (what shows before the fold in search/preview), then write 200-500+ words
+  total with secondary keywords worked in naturally — not clustered or
+  stuffed. Add timestamps for anything over ~3 minutes.
+- **Tags:** 5-10 specific tags. Generic ones ("video", "content") carry no
+  signal.
+- **Captions/transcript:** always include one. Full transcripts correlate
+  strongly with top-3 search rankings and measurably lift both view count
+  and watch-to-completion rate — this is one of the few places a purely
+  mechanical addition (not a rewrite) reliably helps.
 - **Content:** educational, how-to, and myth-busting content outperforms
   trend-chasing because it stays searchable after the trend dies.
 - **Tradeoff:** lowest immediate engagement rate of the major short-form
