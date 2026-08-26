@@ -41,3 +41,17 @@ in the hook, maintain tension through the middle, and close the loop
 explicitly at the end. The close matters as much as the open: a hook that
 promises "3 mistakes" and only delivers two damages trust and depresses
 performance on the *next* piece of content too, not just this one.
+
+## Emotional arousal and sharing
+
+High-arousal emotions drive sharing far more than low-arousal ones,
+regardless of whether the emotion is positive or negative. Awe, anger, and
+amusement are high-sharing emotions; sadness, contentment, and fear tend to
+be low-sharing, even though all five are recognizable "strong" emotions.
+Anger in particular is one of the most reliably viral emotions measured in
+large media studies — but only when it's embedded in a story (problem →
+discovery → resolution). Pure, un-narrated outrage fatigues an audience fast.
+
+Front-load the emotional peak. Share-worthiness gets decided in roughly the
+first 15 seconds — an emotional payoff that lands at 25 seconds has already
+missed the window where most viewers who'd share, would.
