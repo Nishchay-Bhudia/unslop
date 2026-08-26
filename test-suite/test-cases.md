@@ -41,3 +41,8 @@ means the transformation needs another pass, not a ship.
 - **Input:** Vague 'significant results' claim, no numbers.
 - **Platform:** LinkedIn
 - **Expected transformation behavior:** Skill should ask for the real number rather than inventing one.
+
+### Test 8: User complaint
+- **Input:** Frustrated but unfocused paragraph.
+- **Platform:** TikTok
+- **Expected transformation behavior:** Empathy hook + specific stakes, not generic outrage.
