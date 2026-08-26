@@ -16,3 +16,8 @@ means the transformation needs another pass, not a ship.
 - **Input:** Vague 'exciting journey' personal post.
 - **Platform:** LinkedIn
 - **Expected transformation behavior:** Professional insight frame, mandatory captions, one honest tradeoff surfaced.
+
+### Test 3: 3-step process
+- **Input:** Listicle with no audience framing.
+- **Platform:** YouTube Shorts
+- **Expected transformation behavior:** SEO-keyword title; list reframed around a named audience.
