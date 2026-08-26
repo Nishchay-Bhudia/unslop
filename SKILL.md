@@ -210,3 +210,17 @@ Before returning output, verify:
 
 If any check fails, go back to Stage 4 and fix that specific thing — don't
 regenerate from scratch.
+
+## OUTPUT
+
+Return, in this order:
+
+1. **Diagnosis** — the 3-5 AI patterns found in Stage 1.
+2. **Core message** — the distilled 1-2 sentence version from Stage 2.
+3. **Hook chosen** — which formula, and why it fits this audience/platform.
+4. **Transformed content** — the full platform-formatted post/script.
+5. **What changed** — 3-4 concrete before/after sentence pairs, so the user
+   can see the mechanism, not just trust the output.
+6. **Platform notes** — length, caption/hashtag requirements, CTA used.
+7. **Self-rated quality** — 1-10 on how fully it avoids Stage 1's AI tells,
+   with the reasoning, not just a number.
