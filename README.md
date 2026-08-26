@@ -4,7 +4,7 @@
 
 # Unslop
 
-**Transform AI-generated social content into authentic, platform-native posts.**
+**Rewrite AI-sounding social content — or write it from scratch — into authentic, platform-native posts.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-d97757)](https://github.com/anthropics/skills)
