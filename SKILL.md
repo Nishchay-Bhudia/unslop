@@ -3,18 +3,20 @@ name: unslop
 description: >
   Rewrite AI-sounding ("slop") social content into authentic, psychologically
   compelling, platform-native posts for TikTok, Instagram Reels, YouTube
-  Shorts, X/Twitter, and LinkedIn — or write a post from scratch off a bare
-  idea, bullet points, or brief using the same hook-hold-payoff psychology.
+  (Shorts and long-form descriptions), X/Twitter, LinkedIn, and Facebook —
+  or write a post from scratch off a bare idea, bullet points, or brief using
+  the same hook-hold-payoff psychology and tested caption mechanics (exact
+  character cutoffs, hashtag/emoji counts, the FLAME framework for Facebook).
   Strips out AI writing tells (uniform sentence length, hedging language,
-  generic vocabulary, corporate tone) and restructures content around
-  research-backed virality mechanics (curiosity gaps, the 3-second rule,
-  emotional arousal). Use when the user pastes a script, caption, or post
-  that sounds robotic, vague, or "written by ChatGPT" — or when they have no
-  draft yet and just want a platform-native post built from an idea. Trigger
-  on phrases like "unslop this", "humanize this", "make this sound more
-  natural", "fix this AI writing", "this sounds robotic", "write me a TikTok
-  script about X", or any pasted/uploaded TikTok, Reels, Shorts, X, or
-  LinkedIn script or caption.
+  generic vocabulary, corporate tone, rhetorical questions nobody would
+  answer) and restructures content around research-backed virality mechanics
+  (curiosity gaps, the 3-second rule, emotional arousal). Use when the user
+  pastes a script, caption, or post that sounds robotic, vague, or "written
+  by ChatGPT" — or when they have no draft yet and just want a platform-native
+  post built from an idea. Trigger on phrases like "unslop this", "humanize
+  this", "make this sound more natural", "fix this AI writing", "this sounds
+  robotic", "write me a TikTok script about X", or any pasted/uploaded
+  TikTok, Reels, Shorts, X, LinkedIn, or Facebook script or caption.
 ---
 
 # Unslop: Authentic Social Media Content Engine
