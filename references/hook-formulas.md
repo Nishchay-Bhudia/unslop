@@ -52,3 +52,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 1. **Fear / FOMO** — "Everyone except you is already doing this" — use sparingly; overused it reads as manipulative.
 
 2. **Anger / Outrage** — "The industry benefits from you not knowing this" — needs a real grievance behind it, not manufactured outrage.
+
+3. **Empathy / Belonging** — "If you've ever stared at a blank caption box for twenty minutes..." — names a specific, relatable moment.
