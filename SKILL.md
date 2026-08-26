@@ -190,3 +190,23 @@ native upload only (external links get suppressed), end with a real question
 or specific ask, not "thoughts?".
 
 Full detail and rationale per platform: `references/platform-rules.md`.
+
+## STAGE 6 — QUALITY CONTROL
+
+Before returning output, verify:
+
+1. Does it sound like one specific person, not a system?
+2. Is the hook understandable with zero setup?
+3. Is there a real reason to keep watching/reading — an open loop, a stake, a
+   clear payoff coming?
+4. Is it specific — real numbers, names, timeframes, sensory detail?
+5. Are there any fabricated claims, statistics, or experiences? If yes, cut
+   them or flag them to the user instead of shipping them.
+6. Does the ending deliver on what the hook promised?
+7. Is the CTA right for the platform (TikTok/Reels = follow/save, LinkedIn =
+   comment/connect, YouTube = subscribe, X = reply/retweet)?
+8. Recheck against the Stage 1 list — are those specific patterns actually
+   gone now?
+
+If any check fails, go back to Stage 4 and fix that specific thing — don't
+regenerate from scratch.
