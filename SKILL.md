@@ -68,7 +68,8 @@ actually change the output, or just its wording? Only ask when the answer is
 - **A real detail the hook needs is missing** — in either mode. See Stage 2,
   points 6 and 7: no real proof, case, or specific detail to hook on. Don't
   silently ship a rewrite with a blank in it or a fabricated placeholder —
-  ask for the detail, or ask how the user wants the gap handled.
+  ask for the actual detail, directly (see the open-detail question shape
+  below).
 
 Ask everything relevant in one round, not one question at a time — bundle
 platform, feel, and any missing detail into a single batch if more than one
@@ -81,37 +82,45 @@ the pipeline.
 
 ### How to ask
 
-Use the AskUserQuestion tool. This is not a fallback for when prose would be
-awkward — it's the default way this skill asks anything. Only drop to plain
-numbered-list text if the tool genuinely isn't available in the current
-environment.
+There are two different question shapes here — don't collapse them into one.
 
-Each question gets 2-4 concrete options, phrased as real answers a person
-would actually pick between, not category labels — plus the tool's built-in
-"Other" so the user can type past the options or just talk through it. Batch
-every question that applies into one call, not one round-trip per question.
-Then proceed with whatever comes back, including "Other" or an answer that
-doesn't fit any option.
+**Choice questions** — platform, feel/tone, anything where a small set of
+genuinely different real answers exists. Use the AskUserQuestion tool. This
+is the default way this skill asks anything with a real answer-set, not a
+fallback for when prose would be awkward.
 
-**Example — platform genuinely unclear:**
+Make the options actually good:
+- 2-4 options, each a complete, opinionated real answer — not a category
+  label. "Vulnerable, behind-the-scenes" is an option; "casual" is not.
+- Each option has to lead to a genuinely different rewrite. If two options
+  would produce basically the same post, cut one.
+- Cover the real spread of likely answers, not just the obvious ones plus
+  filler — think about what this specific draft could plausibly be before
+  writing the list, don't reuse a generic template.
+- Don't add your own "not sure" or "something else" option — the tool
+  already gives the user "Other" for free; adding one wastes a slot.
+- Batch every choice question that applies into one call, not one
+  round-trip per question. Proceed with whatever comes back, including
+  "Other" or an answer that doesn't map to any option.
+
+**Open-detail questions** — a missing concrete fact: what a company does,
+why a decision got made, a real number. There is no real option-set to offer
+here — anything you listed would just be invented plausible-sounding
+answers, which is exactly what the Guardrails forbid. Don't dress this up as
+multiple choice. Ask it directly, in plain text, as one real question with
+no options attached, and let the user type the actual answer.
+
+**Example — platform genuinely unclear** (choice question):
 > Question: "Which platform is this for?"
-> Options: "TikTok", "LinkedIn", "Instagram Reels", "Not sure — help me pick"
+> Options: "TikTok", "LinkedIn", "Instagram Reels", "YouTube Shorts"
 
-**Example — feel genuinely ambiguous:**
+**Example — feel genuinely ambiguous** (choice question):
 > Question: "What's the tone here?"
 > Options: "Confident, matter-of-fact", "Vulnerable, behind-the-scenes",
-> "Funny/self-aware", "Something else — let me describe it"
+> "Funny, self-aware", "Contrarian, a little combative"
 
-**Example — a real detail is missing** (this is the common case: a draft
-that's otherwise usable but has no specific proof, number, or reason behind
-its claim):
-> Question: "What does [the thing] actually do/mean, concretely?"
-> Options: "I'll type the real detail now", "Use a clearly-marked placeholder,
-> I'll fill it in later", "Skip it — rewrite without that detail"
-
-Options are real, opinionated answers a person would actually pick between —
-not vague categories like "Option A" or "professional/casual" with nothing
-underneath them.
+**Example — a real detail is missing** (open-detail question, no options):
+> "What does Valyu's product actually do — one concrete sentence?"
 
 ## MODE DETECTION
 
