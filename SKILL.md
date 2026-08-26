@@ -299,6 +299,11 @@ them fresh:
 - **Allow imperfection.** A sentence fragment. A contraction. A trailing
   thought. These are what make writing sound spoken rather than generated —
   don't over-correct back into polish.
+- **Carry every link, @mention, name, number, and date through untouched.**
+  Tightening a sentence is cutting adjectives and hedging, not the URL or
+  the specific fact sitting next to them. If a link is making the draft run
+  long, that's a Stage 5 placement question (see Guardrails), not a reason
+  to cut it here.
 
 This stage should produce visibly different sentences, not a synonym pass.
 
@@ -367,7 +372,10 @@ answered (see When To Ask First) — the output itself carries no unresolved
 gaps, placeholders, or caveats. Give exactly two things:
 
 1. **The rewrite** — the full platform-formatted post, in a quote block, on
-   its own, nothing before or after it inside the block.
+   its own, nothing before or after it inside the block. If a link from the
+   input had to move out of the post body per the platform's rules (see
+   Stage 5), show it right under the block as "First comment: [link]" — it
+   still has to be visible in the output, just not inline.
 2. **What this does better** — 3-5 one-line bullets, each naming a specific
    mechanism and pointing at the exact line or phrase in the rewrite that
    delivers it. "Hook lands in the first sentence: 'X.'" not "the hook is
