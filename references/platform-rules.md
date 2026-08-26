@@ -115,6 +115,38 @@ deliberately.
   consistently outperforms a single long post for retention through the
   whole idea.
 
+## Facebook
+
+Facebook is not "Instagram but older" — the algorithm and the audience both
+reward something different: conversation depth over polish.
+
+- **What the algorithm weights:** thread depth and comment count over likes
+  and shares. Plain text status posts consistently outperform link posts and
+  even image posts here — link posts in particular underperform because they
+  send traffic off-platform.
+- **Length:** 40-250 characters total; the 40-80 character range measures
+  meaningfully higher engagement than longer posts. This is the shortest
+  optimal range of any platform in this skill.
+- **The FLAME framework** — the structure behind most high-performing
+  Facebook posts:
+  - **F — Fact/Scene:** open with one concrete, specific detail (a real
+    number, product name, or moment).
+  - **L — Line of tension:** a beat that makes the reader lean in
+    emotionally — not manufactured drama, just the actual stakes.
+  - **A — Ask:** a genuine question, not a rhetorical one.
+  - **M — Moment:** anchor it to a specific day, date, or place.
+  - **E — Emphasis:** land on one word that carries the emotional weight.
+- **Links:** put them in the first comment, not the post body — posts with
+  external links in the body get suppressed.
+- **Hashtags:** 1-3 at most. Facebook is not a hashtag-discovery platform;
+  more than a few reads as spam here specifically.
+- **CTA:** a genuine, answerable question at the end adds meaningfully more
+  comments than "like if you agree" — which reads as engagement bait and is
+  treated as such by both the audience and, increasingly, the algorithm.
+- **Response time:** replying to comments within the first hour measurably
+  boosts reach — an unanswered comment thread is a signal the post isn't
+  worth continuing to show.
+
 ## LinkedIn
 
 - **Length (video):** 45-90 seconds, 4:5 or 1:1 aspect ratio.
