@@ -68,3 +68,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 1. **Cold Open (In Media Res)** — Start mid-action with zero setup: "So the repo hits 40 stars and then it just stops." No preamble.
 
 2. **Before/After Contrast** — "This is what my content looked like a year ago. This is what it looks like now." — needs two real, comparable artifacts.
+
+3. **Failure-to-Success Arc** — "I failed at this about a dozen times before it clicked" — the number of failures should be real, not rounded up for drama.
