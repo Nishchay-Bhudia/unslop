@@ -62,3 +62,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 6. **Confession** — "I'm going to admit something most creators won't" — works only if what follows is a real admission, not a humblebrag.
 
 7. **Mistake Ownership** — "I got this completely wrong for two years" — vulnerability plus a coming correction.
+
+## Story & narrative
