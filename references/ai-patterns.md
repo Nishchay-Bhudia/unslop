@@ -42,3 +42,5 @@ wrote it. Each entry has the pattern, why it reads as generic, and a fix.
 5. **Generic lists** — "3 things you need to know" with no audience-specific framing. *Fix:* Name who the list is actually for and why these three, not others.
 
 6. **Fake conversational tone** — Reads as rehearsed casualness rather than actual conversation. *Fix:* Write it the way you'd actually text a friend the idea, then tighten.
+
+7. **Over-explanation** — Explains obvious things as if to a total novice. *Fix:* Cut the sentence that restates what the reader already inferred.
