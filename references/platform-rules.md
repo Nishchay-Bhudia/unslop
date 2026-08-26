@@ -44,3 +44,14 @@ Stage 5 of `SKILL.md`.
   trend-chasing because it stays searchable after the trend dies.
 - **Tradeoff:** lowest immediate engagement rate of the major short-form
   platforms, but the best passive, long-tail discovery.
+
+## X / Twitter
+
+- **Hook window:** the first ~10 words are the entire hook — most of the
+  audience is scanning a timeline, not settling in to watch.
+- **Video format:** 15-30 seconds, 16:9 or 9:16.
+- **Lifespan:** short — most engagement happens in the first 24-48 hours, so
+  replying to early comments matters more here than on other platforms.
+- **Structure:** a thread of 5-7 tweets, each able to stand alone,
+  consistently outperforms a single long post for retention through the
+  whole idea.
