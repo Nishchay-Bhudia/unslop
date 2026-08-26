@@ -30,3 +30,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 9. **The Mistake Callout** — "I did this wrong for six months before I noticed" — pairs vulnerability with a coming payoff.
 
 10. **Expectation Violation** — "This will change how you think about X" — only works if the next line actually delivers something surprising.
+
+11. **The Unfinished Sentence** — Cut the hook mid-thought on screen text while the voiceover keeps going — forces the eye to keep reading.
