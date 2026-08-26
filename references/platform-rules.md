@@ -59,12 +59,25 @@ deliberately.
 - **Length:** 15-90 seconds; 15-30 seconds performs best for reach.
 - **Primary metric:** saves and shares outrank likes — optimize the ending
   for "save this" or "send to a friend," not just watch time.
-- **Captions:** short, conversational, 2-3 lines. On-screen text carries the
-  actual message more than the caption does.
+- **Captions:** the hook must survive the ~125-character truncation point —
+  see the cheat sheet above. Keep to 2-3 lines with real line breaks, not one
+  dense paragraph; on-screen text carries the actual message more than the
+  caption does.
+- **Ask a specific question, not a generic one.** "What do you think?" is
+  filler. "Which exercise kicked your butt the most?" is answerable in one
+  word and actually gets answered.
+- **Emoji:** 3-5 placed at the start of lines or end of thoughts. Heavier
+  emoji use (5+) correlates with higher likes and comments on this platform
+  specifically — Instagram tolerates a warmer, more emoji-forward register
+  than LinkedIn or X.
+- **Hashtags:** 5-10 mixed popular/niche; a recent platform shift means the
+  old "20-30 hashtags" advice now actively hurts reach.
 - **Tone:** behind-the-scenes, relatable, personality-forward beats polished
   corporate framing.
 - **CTA:** ask for a save or share explicitly — it performs better than a
-  generic "let me know what you think."
+  generic "let me know what you think." Saves and comment velocity (how fast
+  comments arrive after posting) are both real ranking signals here, not
+  just vanity metrics.
 
 ## YouTube Shorts
 
