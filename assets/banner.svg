@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="55%" stop-color="#4a2a6a"/>
+      <stop offset="100%" stop-color="#d97757"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="24" fill="url(#bg)"/>
+  <text x="60" y="120" font-family="Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff">Un-AI-ify</text>
+  <text x="60" y="168" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#f0e6e0">A Claude Skill that turns AI-sounding scripts into platform-native, human posts</text>
+  <text x="60" y="230" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#d0c0d0">TikTok &#8226; Reels &#8226; Shorts &#8226; X &#8226; LinkedIn</text>
+</svg>
