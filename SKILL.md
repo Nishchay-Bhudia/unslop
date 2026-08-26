@@ -92,6 +92,19 @@ Never turn this into an interview. One round, 2-3 questions at most, then
 proceed with whatever answer comes back — including "other" or a
 conversational reply that doesn't fit the options at all.
 
+**Example — platform genuinely unclear:**
+> Question: "Which platform is this for?"
+> Options: "TikTok", "LinkedIn", "Instagram Reels", "Not sure — help me pick"
+
+**Example — feel genuinely ambiguous:**
+> Question: "What's the tone here?"
+> Options: "Confident, matter-of-fact", "Vulnerable, behind-the-scenes",
+> "Funny/self-aware", "Something else — let me describe it"
+
+Options are real, opinionated answers a person would actually pick between —
+not vague categories like "Option A" or "professional/casual" with nothing
+underneath them.
+
 ## MODE DETECTION
 
 Decide which mode you're in before Stage 1:
