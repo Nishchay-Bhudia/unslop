@@ -6,3 +6,5 @@ trips several of these at once, it reads as generic regardless of who or what
 wrote it. Each entry has the pattern, why it reads as generic, and a fix.
 
 ## Structural patterns
+
+1. **Uniform sentence length** — Sentences cluster around 12-18 words with little variance. *Fix:* Mix a 4-word sentence with a 28-word one in the same paragraph.
