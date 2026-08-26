@@ -36,3 +36,8 @@ means the transformation needs another pass, not a ship.
 - **Input:** '7 things everyone misses,' generic.
 - **Platform:** TikTok
 - **Expected transformation behavior:** Compressed into a 60s narrative arc, not a read-off list.
+
+### Test 7: Case study
+- **Input:** Vague 'significant results' claim, no numbers.
+- **Platform:** LinkedIn
+- **Expected transformation behavior:** Skill should ask for the real number rather than inventing one.
