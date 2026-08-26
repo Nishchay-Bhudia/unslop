@@ -161,3 +161,6 @@ No, and it's not trying to. Detector behavior changes constantly and has high fa
 
 **Does it make up stats or personal stories to sound convincing?**
 No. The [Guardrails section of SKILL.md](./SKILL.md#guardrails) explicitly forbids fabricating claims, credentials, or experiences. If your draft needs a number to land, the skill asks you for the real one.
+
+**Can I use it for multiple platforms from one draft?**
+Yes — ask for a multi-platform pass (see Advanced Options in [`SKILL.md`](./SKILL.md#advanced-options)) and it adapts the same core message to each platform's actual pacing rules, not just a reformat.
