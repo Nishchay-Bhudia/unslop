@@ -133,3 +133,33 @@ preview loses people at the 10-15s mark. Both matter.
   mandatory — 85% of viewers watch muted.
 
 Full platform pacing rules: `references/platform-rules.md`.
+
+## STAGE 4 — HUMANIZE
+
+Apply fixes directly against what Stage 1 flagged:
+
+- **Vary sentence length.** Mix 5-word sentences with 25-word ones. Uniform
+  rhythm is the tell; irregular rhythm is what a person actually writes.
+- **Replace inflated vocabulary with plain verbs.**
+  "unlock" → "get" / "find" / "figure out"
+  "testament to" → "shows" / "proves"
+  "revolutionize" → "change" / "fix" / "replace"
+  "delve into" → "look at" / "dig into"
+- **Replace vague claims with concrete ones.**
+  "better results" → "40% faster" (only if the user can back this up —
+  otherwise ask, don't invent)
+  "many people" → "4 out of 5" or a real number
+  "improved engagement" → "went from 500 to 2K likes"
+- **Cut hedging, don't just soften it.**
+  "It may be important to note that..." → delete, or state the point
+  directly.
+  "Studies suggest..." (uncited) → either cite it or say "based on what I've
+  tested..." if that's actually true.
+- **Inject a specific point of view.** "I think", "here's why", a mild
+  opinion, a rhetorical question — anything that couldn't have been written
+  about any topic by swapping the nouns.
+- **Allow imperfection.** A sentence fragment. A contraction. A trailing
+  thought. These are what make writing sound spoken rather than generated —
+  don't over-correct back into polish.
+
+This stage should produce visibly different sentences, not a synonym pass.
