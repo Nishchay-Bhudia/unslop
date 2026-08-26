@@ -55,3 +55,20 @@ discovery → resolution). Pure, un-narrated outrage fatigues an audience fast.
 Front-load the emotional peak. Share-worthiness gets decided in roughly the
 first 15 seconds — an emotional payoff that lands at 25 seconds has already
 missed the window where most viewers who'd share, would.
+
+## The STEPPS framework
+
+From Jonah Berger and Katherine Milkman's research on virality — six levers
+that predict whether content gets shared:
+
+- **Social Currency** — does sharing this make the sharer look good?
+- **Triggers** — is there something in daily life that reminds people to
+  share it?
+- **Emotion** — does it produce genuine high-arousal feeling?
+- **Public** — is the behavior or idea visible to others?
+- **Practical Value** — does it actually help the person who shares it?
+- **Stories** — is it carried by a narrative, not just a list of facts?
+
+Not every post needs all six. Picking one or two deliberately (instead of
+none) is usually the difference between content that gets watched and
+content that gets shared.
