@@ -125,3 +125,21 @@ one per platform.
 | LinkedIn | first sentence | 45-90s | mandatory on-screen captions (85% watch muted) |
 
 Full detail and rationale: [`references/platform-rules.md`](./references/platform-rules.md).
+
+## Example: TikTok before/after
+
+**Before (AI-generated):**
+> "Today I want to talk about the transformative impact of building in
+> public. In summary, sharing your progress is important because it can
+> unlock valuable feedback."
+
+**After:**
+> **Hook:** "I posted my failed side project publicly for 90 days straight.
+> Here's what actually happened."
+> **Hold:** "Not the highlight reel — the actual screenshots, including the
+> week I got zero engagement."
+> **Payoff preview:** "One post at day 61 changed everything, and it wasn't
+> the one I expected."
+
+Four more full transformations (Reels, Shorts, X, LinkedIn) in
+[`examples/`](./examples).
