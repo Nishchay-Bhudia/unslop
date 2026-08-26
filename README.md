@@ -93,8 +93,8 @@ just editing one:
 It will ask for any real, specific detail it needs (a number, a name, a
 moment) rather than inventing one — see [`GUARDRAILS`](./SKILL.md#guardrails).
 
-See [`examples/`](./examples) for five full before/after transformations,
-one per platform.
+See [`examples/`](./examples) for five full before/after transformations
+(one per platform) plus a full generate-from-scratch walkthrough.
 
 ## Features
 
@@ -168,7 +168,7 @@ Four more full transformations (Reels, Shorts, X, LinkedIn) in
 - [`references/platform-rules.md`](./references/platform-rules.md) — platform pacing and caption rules.
 - [`references/ai-patterns.md`](./references/ai-patterns.md) — the 25-point AI-tell checklist.
 - [`references/psychology.md`](./references/psychology.md) — the research this skill is built on.
-- [`examples/`](./examples) — five full before/after transformations.
+- [`examples/`](./examples) — five before/after transformations plus a generate-from-scratch walkthrough.
 - [`test-suite/test-cases.md`](./test-suite/test-cases.md) — 20 regression test cases.
 
 ## FAQ
