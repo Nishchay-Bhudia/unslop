@@ -62,3 +62,22 @@ cp -r un-ai-ify/. .claude/skills/un-ai-ify/
    the `un-ai-ify/` folder.
 2. Go to **Settings → Customize → Skills → Upload skill**.
 3. Upload the ZIP.
+
+## Quick start
+
+1. Paste a script, caption, or post into Claude — anything that sounds
+   robotic, vague, or "written by ChatGPT."
+2. Say which platform it's for (TikTok, Reels, Shorts, X, or LinkedIn) — or
+   just ask, and Claude will ask you if it's ambiguous.
+3. Get back: a diagnosis of what was making it sound generic, the
+   transformed post, exactly what changed and why, and a self-rated quality
+   score.
+
+```
+> Un-AI-ify this for TikTok:
+> "Today I want to discuss the transformative impact of consistency in
+> content creation. Many creators struggle with this..."
+```
+
+See [`examples/`](./examples) for five full before/after transformations,
+one per platform.
