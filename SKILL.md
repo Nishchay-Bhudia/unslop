@@ -90,3 +90,46 @@ Before rewriting anything, isolate what's actually worth keeping:
    Move it to the front.
 
 Present this as a short structured list before Stage 3.
+
+## STAGE 3 — RECONSTRUCT
+
+### 3a. Pick a hook framework by audience awareness
+
+- **Audience doesn't know the problem exists** → contrarian claim ("What
+  everyone gets wrong about X...") or an open curiosity gap ("The thing no
+  one tells you about X...").
+- **Audience already knows the problem** → mistake callout ("I wasted 6
+  months on X before...") or insider reveal ("Working inside X, I found...").
+- **Audience wants a transformation** → before/after contrast, or a 3-step
+  how-to promise.
+- **Cold audience, no relationship yet** → AIDA (Attention → Interest →
+  Desire → Action).
+- **Warm audience that already follows the creator** → BAB (Before → After →
+  Bridge).
+
+Full formula list with examples: `references/hook-formulas.md`.
+
+### 3b. Build hook → hold → payoff
+
+- **Hook** (the first line/moment): the attention-grabber.
+- **Hold** (next beat): context that deepens the gap or raises the stakes —
+  do not resolve the gap yet.
+- **Payoff preview** (next beat): a concrete signal of what the viewer gets
+  if they stay, without giving it all away.
+
+A hook with no hold collapses (feels like clickbait). A hold with no payoff
+preview loses people at the 10-15s mark. Both matter.
+
+### 3c. Match pacing to the platform
+
+- TikTok: hook must land by 3 seconds.
+- Reels: hook by ~2 seconds, visual pattern interrupt matters as much as
+  words.
+- Shorts: hook can take up to 5 seconds; searchability matters more than
+  shock.
+- X: first 10 words are the whole hook — most of the audience never scrolls
+  past them.
+- LinkedIn: hook can be a full sentence, but on-screen captions are
+  mandatory — 85% of viewers watch muted.
+
+Full platform pacing rules: `references/platform-rules.md`.
