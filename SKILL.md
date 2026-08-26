@@ -282,19 +282,29 @@ throw out the whole draft and start over.
 
 ## OUTPUT
 
-Return, in this order:
+Lead with the rewrite. Everything after it is bullets, not prose — this is a
+deliverable, not a writeup.
 
-1. **Diagnosis** (TRANSFORM mode) — the 3-5 AI patterns found in Stage 1. In
-   GENERATE mode, skip this and instead state the mode: "Built from scratch
-   off your brief."
-2. **Core message** — the distilled 1-2 sentence version from Stage 2.
-3. **Hook chosen** — which formula, and why it fits this audience/platform.
-4. **Transformed content** — the full platform-formatted post/script.
-5. **What changed** — 3-4 concrete before/after sentence pairs, so the user
-   can see the mechanism, not just trust the output.
-6. **Platform notes** — length, caption/hashtag requirements, CTA used.
-7. **Self-rated quality** — 1-10 on how fully it avoids Stage 1's AI tells,
-   with the reasoning, not just a number.
+1. If a real detail the hook needed was missing from the input (see
+   Guardrails), say so first, in one line: name exactly what's missing, then
+   continue with the best version buildable without it. Skip this line
+   entirely if nothing was missing.
+2. **The rewrite** — the full platform-formatted post, in a quote block, on
+   its own, nothing before or after it inside the block.
+3. **What works on [platform]** — 4-5 one-line bullets: the actual bar for a
+   successful post here (hook window, length, the one platform-specific
+   must-have from Stage 5/`references/platform-rules.md`). Pull these from
+   the platform rules, don't write generic advice.
+4. **What this one does** — the same number of bullets, same order, one line
+   each, each pointing at the specific line or phrase in the rewrite that
+   meets it. "Hook lands in the first sentence: 'X.'" not "the hook is
+   strong."
+
+That's the whole output. No separate diagnosis essay, no restated core
+message, no before/after table, no numeric self-rating — the "what this one
+does" bullets already show the mechanism. If the user wants the diagnosis or
+a line-by-line breakdown, that's the Advanced Options list below, on
+request, not the default.
 
 ## ADVANCED OPTIONS
 
@@ -308,6 +318,8 @@ If asked, also offer:
   retention for TikTok, save rate for Reels, reply rate for X, etc.).
 - **Line-by-line breakdown** — every rewritten sentence shown with the
   specific AI-pattern it replaced.
+- **Full diagnosis** — the complete Stage 1 pattern scan and Stage 2 extract,
+  for a user who wants the reasoning, not just the result.
 - **Content-mix planning** — if the user is planning a posting cadence, not
   just one post, suggest the 70-20-10 split: ~70% AI-assisted routine
   content (tips, highlights, scheduling posts), ~20% fully human-written
