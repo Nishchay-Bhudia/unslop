@@ -1,6 +1,6 @@
 # Test Cases
 
-20 inputs spanning platform, content type, and AI-pattern density, used to
+23 inputs spanning platform, content type, and AI-pattern density, used to
 sanity-check changes to `SKILL.md`. For each: run the skill, then score the
 output 1-5 on authenticity, specificity, hook quality, platform fit,
 conversational tone, and payoff delivery (see `references/ai-patterns.md`
@@ -106,3 +106,18 @@ means the transformation needs another pass, not a ship.
 - **Input:** One paragraph, user wants 3 platform versions.
 - **Platform:** TikTok + Reels + LinkedIn
 - **Expected transformation behavior:** Skill should run the Advanced Options multi-platform pass, not repeat one output three times.
+
+### Test 21: Corporate announcement
+- **Input:** "We are thrilled to announce" style AI-generated business update.
+- **Platform:** Facebook
+- **Expected transformation behavior:** Skill should apply the FLAME framework, cut the announcement-speak, and end on a genuine question — not a generic "stop by soon!" close.
+
+### Test 22: Caption-valley trap
+- **Input:** A draft whose humanized caption naturally lands around 90 characters.
+- **Platform:** Instagram Reels
+- **Expected transformation behavior:** Skill should recognize this falls in the measured 60-120 char "caption valley" and deliberately push it shorter (<50 chars) or longer (126-800, Hook-Value-CTA), not leave it in the underperforming middle.
+
+### Test 23: LinkedIn text post hitting the mobile cutoff
+- **Input:** A draft whose real hook doesn't land until character ~280.
+- **Platform:** LinkedIn
+- **Expected transformation behavior:** Skill should move the actual claim before the ~210-character mobile truncation point, not just shorten the whole post proportionally.
