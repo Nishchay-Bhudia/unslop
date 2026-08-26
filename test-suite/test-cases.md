@@ -71,3 +71,8 @@ means the transformation needs another pass, not a ship.
 - **Input:** Draft implies stats the user never gave.
 - **Platform:** LinkedIn
 - **Expected transformation behavior:** Skill must flag the missing number, not invent one — core guardrail test.
+
+### Test 14: Thread-worthy idea
+- **Input:** Dense single paragraph, too much for one post.
+- **Platform:** X/Twitter
+- **Expected transformation behavior:** Skill should recommend and build a thread, not force it into one tweet.
