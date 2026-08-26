@@ -68,9 +68,10 @@ cp -r unslop/. .claude/skills/unslop/
 Paste a script, caption, or post that sounds robotic, vague, or written by
 ChatGPT. Say which platform it's for — TikTok, Reels, Shorts, X, LinkedIn, or
 Facebook — or leave it out and Claude will ask if it's genuinely unclear.
-You'll get back a diagnosis of what was making it sound generic, the
-rewritten post, a rundown of what changed and why, and a self-rated quality
-score.
+You'll get back the rewritten post first, then a short checklist: what a
+post actually needs to work on that platform, and where in the rewrite each
+one shows up. No essay, no score — just the post and the reasoning that fits
+in a glance.
 
 ```
 > Unslop this for TikTok:
