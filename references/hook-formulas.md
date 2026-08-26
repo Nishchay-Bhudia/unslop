@@ -28,3 +28,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 8. **The Countdown Tease** — "In five seconds I'll show you the actual number" — creates a short, bridgeable wait.
 
 9. **The Mistake Callout** — "I did this wrong for six months before I noticed" — pairs vulnerability with a coming payoff.
+
+10. **Expectation Violation** — "This will change how you think about X" — only works if the next line actually delivers something surprising.
