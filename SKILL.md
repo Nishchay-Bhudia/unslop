@@ -70,3 +70,23 @@ Scan the input for AI writing patterns before touching a word of it. Check:
 
 Output a short bullet list of which patterns are present before moving on —
 this becomes the basis for Stage 4.
+
+## STAGE 2 — EXTRACT
+
+Before rewriting anything, isolate what's actually worth keeping:
+
+1. **Core message** — force it into 1-2 plain sentences. If you can't, the
+   draft is muddy and that's the real problem, not the prose style.
+2. **Strongest claim** — the one thing worth remembering after everything
+   else is forgotten.
+3. **Most surprising point** — often buried in paragraph 3, not the intro.
+4. **Target audience** — who is this actually for?
+5. **Emotional angle available** — aspiration, anger, belonging, amusement,
+   fear of missing out? Pick one primary lever, not all five.
+6. **Proof already present** — real data, a real personal experience, a real
+   case study — vs. proof that's missing and should be flagged to the user.
+7. **Unique, specific details** — anything only this creator/brand could say.
+8. **A hidden hook** — is there a better opening sentence buried mid-draft?
+   Move it to the front.
+
+Present this as a short structured list before Stage 3.
