@@ -1,6 +1,6 @@
-# Contributing to Un-AI-ify
+# Contributing to Unslop
 
-Un-AI-ify is a Claude Skill: a folder of Markdown instructions, not a codebase.
+Unslop is a Claude Skill: a folder of Markdown instructions, not a codebase.
 Contributions that improve accuracy, add platforms, or sharpen the psychology
 are welcome.
 
@@ -28,5 +28,5 @@ are welcome.
 ## Local testing
 
 There's no build step. Load the skill folder into Claude Code
-(`.claude/skills/un-ai-ify/`) or zip it for Claude.ai, then run a few cases
+(`.claude/skills/unslop/`) or zip it for Claude.ai, then run a few cases
 from `test-suite/test-cases.md` and compare against `expected-outputs/`.
