@@ -341,3 +341,7 @@ If asked, also offer:
 - `references/psychology.md` — the research this skill is built on: curiosity
   gap theory, the Zeigarnik effect, emotional arousal and sharing, the STEPPS
   framework.
+- `references/human-vs-ai-data.md` — measured performance data on human vs.
+  AI-generated content (trust, engagement, conversion), the 70-20-10 hybrid
+  model, and real case studies (Duolingo, Scrub Daddy, Khaby Lame, and
+  others) this skill's approach is grounded in.
