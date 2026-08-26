@@ -94,3 +94,5 @@ a hook with a fabricated statistic is worse than a slower, honest one.
 4. **Subject Line Double-Punch** — Bold on-screen claim plus a question in the same frame — gives both a skimmer and a reader a reason to stop.
 
 5. **Timestamp Hook** — "This is happening right now" — only honest when it's actually current; stale "urgent" content reads as manipulative fast.
+
+6. **Investment Specificity** — "I put in $4,200 and got back $11,000" — exact numbers, not round ones, read as real.
