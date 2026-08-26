@@ -39,7 +39,8 @@ missing. Do not invent it.
 ## INPUT
 
 The user provides:
-1. **Content** — the script, caption, or post to transform (required).
+1. **Content** — either an existing draft to fix, or a bare idea/bullet
+   points/brief to build from scratch (required — one or the other).
 2. **Platform** — TikTok / Instagram Reels / YouTube Shorts / X / LinkedIn
    (optional; infer from context or ask if genuinely ambiguous).
 3. **Audience** — e.g. "18-25 year old indie hackers" (optional).
@@ -50,7 +51,26 @@ If platform is not given and can't be reasonably inferred, ask before
 transforming — pacing and caption rules differ enough that guessing wrong
 wastes the user's time.
 
-## STAGE 1 — DIAGNOSE
+## MODE DETECTION
+
+Decide which mode you're in before Stage 1:
+
+- **TRANSFORM mode** — the user gave you an actual draft: a script, caption,
+  or post, even a rough one. Run the full pipeline starting at Stage 1
+  (Diagnose).
+- **GENERATE mode** — the user gave you a bare idea, a topic, bullet points,
+  or a brief with no written draft ("write me a TikTok about shipping my
+  side project"). There's nothing to diagnose yet, so skip straight to Stage
+  2 (Extract) using the brief as raw material, then continue through the
+  rest of the pipeline normally.
+
+Both modes converge at Stage 2 and share every stage after it — the only
+difference is whether Stage 1 has anything to scan. Generate mode is not
+"make something up": every constraint in the Guardrails section still
+applies. If the brief doesn't include a real detail the hook needs (a number,
+a name, a specific moment), ask for it rather than inventing one.
+
+## STAGE 1 — DIAGNOSE (TRANSFORM mode only)
 
 Scan the input for AI writing patterns before touching a word of it. Check:
 
