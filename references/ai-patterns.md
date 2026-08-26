@@ -24,3 +24,5 @@ wrote it. Each entry has the pattern, why it reads as generic, and a fix.
 2. **Generic adjectives** — "better", "easier", "powerful" with no referent. *Fix:* Attach a number or a mechanism: "40% faster", "one-click setup".
 
 3. **Excessive em dashes** — Em dashes in more than ~30% of sentences. *Fix:* Swap half of them for periods or commas.
+
+4. **Systematic punctuation** — Perfectly consistent Oxford commas, zero regional variance, minimal contractions. *Fix:* Let punctuation vary slightly the way a real person's does.
