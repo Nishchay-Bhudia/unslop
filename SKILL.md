@@ -98,21 +98,33 @@ this becomes the basis for Stage 4.
 
 ## STAGE 2 — EXTRACT
 
-Before rewriting anything, isolate what's actually worth keeping:
+Before rewriting anything, isolate what's actually worth keeping. This stage
+runs identically in both modes — in TRANSFORM mode you're pulling these out
+of the existing draft; in GENERATE mode you're pulling them out of the
+brief/idea, and asking the user for anything below that the brief doesn't
+supply (especially #6 and #7 — don't invent them):
 
 1. **Core message** — force it into 1-2 plain sentences. If you can't, the
-   draft is muddy and that's the real problem, not the prose style.
+   draft (or brief) is muddy and that's the real problem, not the prose
+   style.
 2. **Strongest claim** — the one thing worth remembering after everything
    else is forgotten.
-3. **Most surprising point** — often buried in paragraph 3, not the intro.
+3. **Most surprising point** — often buried in paragraph 3 of a draft, or
+   unstated in a brief until you ask "what's the part you'd actually tell a
+   friend first?"
 4. **Target audience** — who is this actually for?
 5. **Emotional angle available** — aspiration, anger, belonging, amusement,
    fear of missing out? Pick one primary lever, not all five.
 6. **Proof already present** — real data, a real personal experience, a real
    case study — vs. proof that's missing and should be flagged to the user.
+   In GENERATE mode this is almost always missing at first; ask for it.
 7. **Unique, specific details** — anything only this creator/brand could say.
-8. **A hidden hook** — is there a better opening sentence buried mid-draft?
-   Move it to the front.
+   In GENERATE mode, this is usually the single most important question to
+   ask before writing anything — generic details produce a generic post
+   regardless of how good the hook formula is.
+8. **A hidden hook** — in TRANSFORM mode, is there a better opening sentence
+   buried mid-draft? Move it to the front. In GENERATE mode, this is instead
+   "which of the details from #7 makes the strongest hook."
 
 Present this as a short structured list before Stage 3.
 
