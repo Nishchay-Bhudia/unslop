@@ -4,7 +4,7 @@
 
 # Unslop
 
-**Rewrite AI-sounding social content — or write it from scratch — into authentic, platform-native posts.**
+**Rewrite AI-sounding social content, or write it from scratch, into authentic, platform-native posts.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-d97757)](https://github.com/anthropics/skills)
@@ -15,29 +15,29 @@
 
 ## The problem
 
-Most AI-generated social content sounds the same: uniform sentence length,
-hedging language, "unlock"/"revolutionize"/"testament to," a hook that
-doesn't hook, and zero specificity. It reads like it was written for no one
-in particular — because it usually was.
+Most AI-generated social content sounds the same. Sentences run the same
+length. "Unlock," "revolutionize," and "testament to" show up whether or not
+they mean anything. The hook doesn't hook. Nothing in it is specific enough
+to actually be about anything. That's not an accident — it reads like it was
+written for no one in particular, because it was.
 
-Unslop is a [Claude Skill](https://github.com/anthropics/skills) that
-takes that draft, diagnoses exactly which patterns are making it generic, and
-rebuilds it around a real hook-hold-payoff structure — tuned to the actual
-retention mechanics of the platform it's going to, not just "sound more
-human."
+Unslop is a [Claude Skill](https://github.com/anthropics/skills) that takes
+that draft, works out exactly which patterns are making it generic, and
+rebuilds it around a real hook-hold-payoff structure tuned to how the target
+platform actually keeps or loses attention.
 
 ## What makes this different
 
-This is **not** an AI-detector-evasion tool. Detectors change constantly and
-have high false-positive rates on non-native English and technical writing —
-building around beating them is a losing, dishonest game.
+This isn't an AI-detector-evasion tool. Detectors change constantly and have
+high false-positive rates on non-native English and technical writing, so
+building around beating them is a losing bet, and a slightly dishonest one.
 
-Unslop is psychology-first: it applies research on curiosity gaps
-(Loewenstein), the Zeigarnik effect, emotional arousal and sharing (STEPPS),
-and platform-specific retention data (TikTok's 3-second gate, LinkedIn's 85%
-muted-viewing rate, etc.) to make content that's genuinely more compelling —
-and it refuses to fabricate stats, credentials, or experiences to get there.
-See [`GUARDRAILS`](./SKILL.md#guardrails).
+Unslop works from the psychology instead: curiosity gaps (Loewenstein), the
+Zeigarnik effect, emotional arousal and sharing (STEPPS), and hard
+platform-retention data — TikTok's first-second attention gate, LinkedIn's
+85% muted-viewing rate, Instagram's "caption valley." It also won't invent a
+stat, credential, or personal story to make a hook land harder. See
+[Guardrails](./SKILL.md#guardrails).
 
 ## Install
 
@@ -47,31 +47,30 @@ git clone https://github.com/nishchay-bhudia/unslop.git
 mkdir -p ~/.claude/skills
 cp -r unslop/. ~/.claude/skills/unslop/
 ```
-Restart Claude Code (or start a new session). The skill auto-triggers when
-you paste content that sounds AI-generated, or when you say things like
-"humanize this" or "unslop this."
+Restart Claude Code, or start a new session. The skill triggers on its own
+when you paste content that sounds AI-generated, or when you say something
+like "humanize this" or "unslop this."
 
-**Project-level (this repo's skill applies only inside one project)**
+**Project-level** (skill applies only inside one project)
 ```bash
 mkdir -p .claude/skills
 cp -r unslop/. .claude/skills/unslop/
 ```
 
 **Claude.ai**
-1. Download this repo as a ZIP (Code → Download ZIP), or `git clone` then zip
-   the `unslop/` folder.
-2. Go to **Settings → Customize → Skills → Upload skill**.
+1. Download this repo as a ZIP (Code → Download ZIP), or clone it and zip the
+   `unslop/` folder yourself.
+2. Go to Settings → Customize → Skills → Upload skill.
 3. Upload the ZIP.
 
 ## Quick start
 
-1. Paste a script, caption, or post into Claude — anything that sounds
-   robotic, vague, or "written by ChatGPT."
-2. Say which platform it's for (TikTok, Reels, Shorts, X, LinkedIn, or
-   Facebook) — or just ask, and Claude will ask you if it's ambiguous.
-3. Get back: a diagnosis of what was making it sound generic, the
-   transformed post, exactly what changed and why, and a self-rated quality
-   score.
+Paste a script, caption, or post that sounds robotic, vague, or written by
+ChatGPT. Say which platform it's for — TikTok, Reels, Shorts, X, LinkedIn, or
+Facebook — or leave it out and Claude will ask if it's genuinely unclear.
+You'll get back a diagnosis of what was making it sound generic, the
+rewritten post, a rundown of what changed and why, and a self-rated quality
+score.
 
 ```
 > Unslop this for TikTok:
@@ -79,10 +78,9 @@ cp -r unslop/. .claude/skills/unslop/
 > content creation. Many creators struggle with this..."
 ```
 
-**Nothing written yet?** Unslop also writes from scratch — give it an idea,
-a few bullet points, or a rough brief instead of a draft, and it runs the
-same hook-hold-payoff psychology to build the post from zero rather than
-just editing one:
+Nothing written yet? Unslop also builds from scratch. Give it an idea, a few
+bullet points, or a rough brief instead of a draft, and it runs the same
+hook-hold-payoff logic to write the post rather than edit one:
 
 ```
 > Write me a LinkedIn post from scratch: I shipped a Claude Skill last
@@ -90,35 +88,43 @@ just editing one:
 > was posting the failed first version, not the polished one.
 ```
 
-It will ask for any real, specific detail it needs (a number, a name, a
-moment) rather than inventing one — see [`GUARDRAILS`](./SKILL.md#guardrails).
+If a real detail is missing — a number, a name, a moment — it asks for one
+instead of making it up. See [Guardrails](./SKILL.md#guardrails).
 
-See [`examples/`](./examples) for five full before/after transformations
-(one per platform) plus a full generate-from-scratch walkthrough.
+Six full before/after transformations, one per platform, plus a
+generate-from-scratch walkthrough, live in [`examples/`](./examples).
 
 ## Features
 
-- 🎯 **6-stage transformation pipeline** — diagnose, extract, reconstruct,
-  humanize, platform-adapt, quality-control (full detail in
-  [`SKILL.md`](./SKILL.md)).
-- ✍️ **Rewrite or write from scratch** — paste a rough draft to fix, or just
-  an idea/brief to build from zero; both run through the same hook and
-  platform logic (see [`MODE DETECTION`](./SKILL.md#mode-detection)).
-- 🪝 **38 hook formulas**, organized by audience awareness and psychological
-  lever, each with a real example — [`references/hook-formulas.md`](./references/hook-formulas.md).
-- 🧠 **Psychology-backed, not detection-based** — curiosity gap theory, the
-  Zeigarnik effect, STEPPS — [`references/psychology.md`](./references/psychology.md).
-- 🔍 **23-point AI-tell checklist** with before/after fixes for each pattern —
-  [`references/ai-patterns.md`](./references/ai-patterns.md).
-- 📱 **Platform-native pacing** for TikTok, Reels, Shorts, X, LinkedIn, and
-  Facebook, including exact caption-length cutoffs (Instagram's ~125-char
-  truncation, LinkedIn's ~210-char mobile cutoff, Facebook's FLAME framework)
-  — [`references/platform-rules.md`](./references/platform-rules.md).
-- 🛡️ **Guardrails against fabrication** — never invents stats, credentials,
-  or personal experience to sound more convincing.
-- 🧪 **23-case test suite** for regression-checking any change to the skill —
-  [`test-suite/test-cases.md`](./test-suite/test-cases.md).
-- 📦 **Fully open-source, MIT-licensed**, zero paywalls, zero usage limits.
+**A 6-stage pipeline, not a single rewrite pass.** Diagnose, extract,
+reconstruct, humanize, platform-adapt, quality-control. Full detail in
+[`SKILL.md`](./SKILL.md).
+
+**Rewrites an existing draft or writes one from nothing.** Same hook and
+platform logic either way — see [Mode Detection](./SKILL.md#mode-detection).
+
+**38 hook formulas**, organized by audience awareness and psychological
+lever, each with a real example and, where it exists, measured performance
+data — [`references/hook-formulas.md`](./references/hook-formulas.md).
+
+**Built on research, not a detector.** Curiosity gap theory, the Zeigarnik
+effect, STEPPS — [`references/psychology.md`](./references/psychology.md).
+
+**A 23-point AI-tell checklist** with a fix for each pattern —
+[`references/ai-patterns.md`](./references/ai-patterns.md).
+
+**Platform-native pacing** for TikTok, Reels, Shorts, X, LinkedIn, and
+Facebook, down to exact caption cutoffs — Instagram's ~125-character
+truncation, LinkedIn's ~210-character mobile cutoff, Facebook's FLAME
+framework — in [`references/platform-rules.md`](./references/platform-rules.md).
+
+**Won't fabricate.** No invented stats, credentials, or personal experience,
+even when it would make the hook land harder.
+
+**A 23-case test suite** for checking any change to the skill against real
+scenarios — [`test-suite/test-cases.md`](./test-suite/test-cases.md).
+
+Open-source, MIT-licensed. No paywall, no usage limit.
 
 ## How it works
 
@@ -148,12 +154,12 @@ Full detail and rationale: [`references/platform-rules.md`](./references/platfor
 
 ## Example: TikTok before/after
 
-**Before (AI-generated):**
+Before (AI-generated):
 > "Today I want to talk about the transformative impact of building in
 > public. In summary, sharing your progress is important because it can
 > unlock valuable feedback."
 
-**After:**
+After:
 > **Hook:** "I posted my failed side project publicly for 90 days straight.
 > Here's what actually happened."
 > **Hold:** "Not the highlight reel — the actual screenshots, including the
@@ -161,27 +167,30 @@ Full detail and rationale: [`references/platform-rules.md`](./references/platfor
 > **Payoff preview:** "One post at day 61 changed everything, and it wasn't
 > the one I expected."
 
-Five more full transformations (Reels, Shorts, X, LinkedIn, Facebook) in
+Five more full transformations (Reels, Shorts, X, LinkedIn, Facebook) live in
 [`examples/`](./examples).
 
-## Why this actually matters (the data)
+## Why this matters, with the data
 
-This isn't a vibes-based rewrite. A few measured findings this skill is
+This isn't a rewrite based on vibes. A few measured findings this skill is
 built around:
 
-- Audiences can tell — roughly half of people can correctly identify
-  AI-generated copy, and engagement measurably drops (~12%) the moment
-  content reads as AI-generated.
-- In head-to-head comparisons, human-written content has driven several
-  times more traffic and click-through rate than AI-generated content, with
-  meaningfully longer session duration.
-- The best-performing content mix isn't "all human" or "all AI" — a
-  **70% AI-assisted / 20% human-written / 10% real-time** split has
-  outperformed both pure extremes.
-- On Instagram specifically, the "safe middle" caption length (60-120
-  characters) is measurably the *worst*-performing length — the platform
-  rewards committing to either genuinely short or a full Hook-Value-CTA
-  caption, not something in between.
+Roughly half of people can correctly identify AI-generated copy on sight, and
+engagement measurably drops, around 12%, the moment content reads as
+AI-generated to the person seeing it.
+
+In head-to-head comparisons, human-written content has driven several times
+more traffic and click-through rate than AI-generated content, with
+noticeably longer session duration on the human-written side.
+
+The best-performing content mix isn't all-human or all-AI. A rough
+70% AI-assisted / 20% human-written / 10% real-time split has outperformed
+both pure extremes in measured testing.
+
+On Instagram specifically, the "safe middle" caption length — 60 to 120
+characters, the range most advice defaults to — is the worst-performing
+length on the platform. Short wins, and so does a full Hook-Value-CTA
+caption. The middle loses.
 
 Full sourcing and case studies: [`references/human-vs-ai-data.md`](./references/human-vs-ai-data.md).
 
@@ -193,47 +202,53 @@ Full sourcing and case studies: [`references/human-vs-ai-data.md`](./references/
 - [`references/ai-patterns.md`](./references/ai-patterns.md) — the 23-point AI-tell checklist.
 - [`references/psychology.md`](./references/psychology.md) — the research this skill is built on.
 - [`references/human-vs-ai-data.md`](./references/human-vs-ai-data.md) — measured human-vs-AI performance data and real case studies.
-- [`examples/`](./examples) — six before/after transformations (one per platform) plus a generate-from-scratch walkthrough.
-- [`test-suite/test-cases.md`](./test-suite/test-cases.md) — 20 regression test cases.
+- [`examples/`](./examples) — six before/after transformations, one per platform, plus a generate-from-scratch walkthrough.
+- [`test-suite/test-cases.md`](./test-suite/test-cases.md) — 23 regression test cases.
 
 ## FAQ
 
 **Will this help me beat AI detectors?**
-No, and it's not trying to. Detector behavior changes constantly and has high false-positive rates on non-native English and technical writing. This skill optimizes for a human reader's attention, not a classifier.
+No, and that's not the goal. Detector behavior changes constantly and has
+high false-positive rates on non-native English and technical writing. This
+skill optimizes for a human reader's attention, not a classifier's score.
 
 **Does it make up stats or personal stories to sound convincing?**
-No. The [Guardrails section of SKILL.md](./SKILL.md#guardrails) explicitly forbids fabricating claims, credentials, or experiences. If your draft needs a number to land, the skill asks you for the real one.
+No. [Guardrails in SKILL.md](./SKILL.md#guardrails) explicitly forbid
+fabricating claims, credentials, or experiences. If your draft needs a real
+number to land, the skill asks you for it.
 
 **Can I use it for multiple platforms from one draft?**
-Yes — ask for a multi-platform pass (see Advanced Options in [`SKILL.md`](./SKILL.md#advanced-options)) and it adapts the same core message to each platform's actual pacing rules, not just a reformat.
+Yes. Ask for a multi-platform pass — see [Advanced Options](./SKILL.md#advanced-options)
+— and it adapts the same core message to each platform's actual pacing
+rules, not just a reformat of the same text.
 
 **Is this free?**
-Yes, MIT-licensed, no paywalls, no usage limits, forever.
+Yes. MIT-licensed, no paywall, no usage limit, indefinitely.
 
 **How do I add a new hook formula or platform rule?**
-See [`CONTRIBUTING.md`](./CONTRIBUTING.md) — PRs adding real, non-fabricated examples are welcome.
+See [`CONTRIBUTING.md`](./CONTRIBUTING.md). PRs adding real, non-fabricated
+examples are welcome.
 
 ## Roadmap
 
-- [ ] A/B test brief generator (compare two hook variants with a metric to watch)
-- [ ] Brand-voice customization layer
-- [ ] Discord and Bluesky platform rules
-- [ ] Multi-language support
+- A/B test brief generator (compare two hook variants with a metric to watch)
+- Brand-voice customization layer
+- Discord and Bluesky platform rules
+- Multi-language support
 
 ## Contributing
 
-Contributions are welcome — new hook formulas, updated platform rules as
-algorithms change, or additional test cases. See
-[`CONTRIBUTING.md`](./CONTRIBUTING.md).
+New hook formulas, updated platform rules as algorithms change, additional
+test cases — all welcome. See [`CONTRIBUTING.md`](./CONTRIBUTING.md).
 
 ## License
 
-[MIT](./LICENSE) — free forever, no paywalls, community-owned.
+[MIT](./LICENSE). Free, no paywall, community-owned.
 
 ---
 
 <div align="center">
 
-If this helped you ship something less generic, consider starring the repo. ⭐
+If this helped you ship something less generic, a star helps other people find it.
 
 </div>
