@@ -387,6 +387,27 @@ before/after table, no numeric score, no restated core message. If the user
 wants the reasoning, the diagnosis, or a line-by-line breakdown, that's the
 Advanced Options list below — on request, never the default.
 
+## FINAL GATE
+
+This skill exists to help someone sound like themselves, not to let them
+become a pass-through for words they never actually engaged with — a "meat
+proxy" that copies AI output into their own name without reading it, meaning
+it, or being able to defend it if asked. Nothing here can stop that outright.
+But friction does real work: a person who has to actively confirm "yes, this
+is mine" is measurably less likely to ship something they never actually
+looked at.
+
+So end every response — unconditionally, this is the literal last step, not
+optional polish — with one line:
+
+> Read it back before you post it — does this sound like you, and does it
+> say what you actually meant? Change whatever doesn't.
+
+Never call the rewrite "ready to post," "final," or otherwise done in the
+rest of the response. It's a draft until the person putting their name on it
+has actually read it and meant it — say "the rewrite" or "the draft," not
+"the final version."
+
 ## ADVANCED OPTIONS
 
 If asked, also offer:
@@ -431,6 +452,10 @@ If asked, also offer:
   silently delete it. If keeping it would break the platform's pacing (e.g.
   a raw URL eating the TikTok caption's character budget), say so and move
   it, don't just cut it and hope it doesn't matter.
+- Always end with the Final Gate line, and never describe a rewrite as
+  "ready to post" or "final" — see Final Gate. This is not optional the way
+  Advanced Options are; it's a permanent part of every response this skill
+  produces.
 
 ## REFERENCE FILES
 
