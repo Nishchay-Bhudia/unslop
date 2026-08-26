@@ -21,3 +21,8 @@ means the transformation needs another pass, not a ship.
 - **Input:** Listicle with no audience framing.
 - **Platform:** YouTube Shorts
 - **Expected transformation behavior:** SEO-keyword title; list reframed around a named audience.
+
+### Test 4: Contrarian take
+- **Input:** Flat opinion statement, no stakes.
+- **Platform:** X/Twitter
+- **Expected transformation behavior:** Thread structure, first-10-words hook, one tweet per beat.
